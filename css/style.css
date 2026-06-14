@@ -1,0 +1,183 @@
+:root {
+  --color-bg: #faf9f6;
+  --color-text: #1a1a1a;
+  --color-chord: #b34a00;
+  --color-muted: #666;
+  --color-border: #ddd;
+
+  --font-body: system-ui, -apple-system, sans-serif;
+  --font-mono: ui-monospace, monospace;
+
+  --size-base: 1rem;
+  --size-small: 0.8rem;
+  --size-title: 1.25rem;
+
+  --spacing-page: 1.5rem;
+  --spacing-section: 1rem;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  font-size: var(--size-base);
+  line-height: 1.5;
+  padding: var(--spacing-page);
+}
+
+/* ── Index page ─────────────────────────────────────── */
+
+.site-header {
+  margin-bottom: var(--spacing-section);
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.75rem;
+}
+
+.site-title {
+  font-size: var(--size-title);
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.site-subtitle {
+  font-size: var(--size-small);
+  color: var(--color-muted);
+  margin-top: 0.15rem;
+}
+
+.song-list {
+  list-style: none;
+  columns: 2;
+  column-gap: 2rem;
+}
+
+.song-list li {
+  break-inside: avoid;
+  padding: 0.2rem 0;
+}
+
+.song-list a {
+  color: var(--color-text);
+  text-decoration: none;
+  font-size: var(--size-small);
+}
+
+.song-list a:hover {
+  color: var(--color-chord);
+}
+
+.song-list .artist {
+  color: var(--color-muted);
+  font-size: var(--size-small);
+}
+
+/* ── Song page ──────────────────────────────────────── */
+
+.song-header {
+  margin-bottom: var(--spacing-section);
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.5rem;
+}
+
+.song-title {
+  font-size: var(--size-title);
+  font-weight: 700;
+}
+
+.song-artist {
+  color: var(--color-muted);
+  font-size: var(--size-small);
+}
+
+.song-body {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+}
+
+.song-body.two-col {
+  columns: 2;
+  column-gap: 2rem;
+}
+
+.line {
+  display: flex;
+  flex-direction: column;
+  break-inside: avoid;
+}
+
+/* Chord line: preserves whitespace so column-aligned chords render correctly */
+.chords {
+  color: var(--color-chord);
+  font-weight: 700;
+  white-space: pre;
+  line-height: 1.3;
+}
+
+.lyrics {
+  line-height: 1.3;
+  margin-bottom: 0.15rem;
+}
+
+.marker {
+  color: var(--color-muted);
+  font-size: 0.65rem;
+  font-weight: 700;
+  margin: 0.6rem 0 0.3rem;
+  break-inside: avoid;
+  break-before: avoid;
+}
+
+.marker.colbreak {
+  display: none;
+}
+
+/* ── Index body (artist groups) ──────────────────────── */
+
+.index-body {
+  columns: 3;
+  column-gap: 2rem;
+}
+
+.artist-group {
+  break-inside: avoid;
+  margin-bottom: 1rem;
+}
+
+.artist-heading {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-muted);
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.15rem;
+  margin-bottom: 0.25rem;
+}
+
+.song-entries {
+  list-style: none;
+}
+
+.song-entries li {
+  padding: 0.05rem 0;
+}
+
+.song-entries a {
+  color: var(--color-text);
+  text-decoration: none;
+  font-size: 0.72rem;
+}
+
+.song-entries a:hover {
+  color: var(--color-chord);
+}

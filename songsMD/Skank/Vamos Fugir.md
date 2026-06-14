@@ -1,0 +1,103 @@
+# Vamos Fugir
+**Skank**
+
+```
+F#mEF#mE
+         A          E4
+Vamos fugir deste lugar, baby
+        F#m
+Vamos fugir
+       D
+Tô cansado de esperar
+  E              F#m
+Que você me carregue
+         A
+Vamos fugir
+             E4
+Pra outro lugar, baby
+         F#m
+Vamos fugir
+           D
+Pra onde quer que você vá
+  E              F#m
+Que você me carregue
+
+== REFRÃO ==
+
+                A
+Pois diga que irá
+    E     D
+Irajá, Irajá
+Pra onde eu só veja você
+                 A
+Você veja a mim só
+     E      D
+Marajó, Marajó
+Qualquer outro lugar comum
+                 A
+Outro lugar qualquer
+      E       D
+Guaporé, Guaporé
+Qualquer outro lugar ao sol
+                A
+Outro lugar ao sul
+      E        D
+Céu azul, Céu azul
+Onde haja só o meu corpo nu
+Junto ao seu corpo nu
+                  /REFRÃO
+( F#m  E  F#m  E )
+         A
+Vamos fugir
+             E4
+Pra outro lugar, baby
+         F#m
+Vamos fugir
+          D
+Pra onde haja um tobogã
+E                   F#m
+Onde a gente escorregue
+         A          E4
+Vamos fugir deste lugar, baby
+         F#m
+Vamos fugir
+       D
+Tô cansado de esperar
+  E              F#m
+Que você me carregue
+
+
+== COLBREAK ==
+
+== REFRÃO ==
+
+         A             E4
+Vamos fugir Pra outro lugar, baby
+         F#m
+Vamos fugir
+          D
+Pra onde haja um tobogã
+E                   F#m
+Onde a gente escorregue
+      D
+Todo dia de manhã
+  E                   F#m
+Flores que a gente regue
+     D
+Uma banda de maçã
+E                 F#m
+Outra banda de reggae
+       D
+Tô cansado de esperar
+  E              F#m
+Que você me carregue
+      D
+Todo dia de manhã
+  E                   F#m
+Flores que a gente regue
+( D  E  F#m ) 2x
+     D
+Uma banda de maçã
+E                 F#m
+Outra banda de reggae
+```
