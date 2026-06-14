@@ -38,11 +38,44 @@ Phases are intentionally tiny — each one produces something openable in a brow
 - If the file contains `== COLBREAK ==`, emit `<main class="song-body two-col">` instead of `<main class="song-body">`. Render the marker itself as `<p class="marker colbreak">` (used for future forced column-break CSS if needed).
 - Validate a sample of the generated pages fit the one-screen constraint.
 
-## Phase 6 — Hosting
+## Phase 6 — Hosting ✅
 
 - Initialize a git repository.
 - Push to GitHub and enable GitHub Pages.
-- Confirm both pages render correctly on the live URL.
+- Live at https://filipercastro.github.io/myCifraClub/
+
+---
+
+## Phase 7 — Layout Tightening & Font Maximisation
+
+Goal: use the available 800 × 1280 px viewport as fully as possible so songs are easier to read without scrolling.
+
+### 7a — Compact header
+
+- Title and artist on **one line**, separated by a `·` (middle dot): e.g. `Tocando Em Frente · Almir Sater`
+- `.song-title` stays bold; `.song-artist` rendered inline in muted colour at a slightly smaller weight.
+- Reduce `padding-bottom` and `margin-bottom` on `.song-header` — target total header height ≈ 1.5 rem (currently ~3.5 rem).
+
+### 7b — Reduced page padding
+
+- Shrink `body` padding from `1.5rem` to `0.75rem` on all sides — recovers ~1.5 rem (≈ 24 px) of vertical space.
+
+### 7c — Per-song font size (build-time)
+
+Font size varies per song because each song has a different line count.
+
+- `build-songs.mjs` counts the number of `.line` divs and `.marker` elements produced for each song.
+- Using the known line-height and fixed viewport geometry (1280 px − header − padding), it calculates the largest `font-size` (in rem) at which the song's total content height fits exactly within the song-body area.
+- The calculated size is written as an inline `style="font-size: Xrem"` on the `<main>` element.
+- Two-col songs have twice the effective content height available (`columns: 2` halves the rendered height), so they are calculated separately.
+- Floor at `0.72rem` (minimum readable on the target device); no ceiling — if a song is short, it gets a large font.
+
+### 7d — Centered text
+
+- Add `text-align: center` to `.song-body`.
+- This centers each lyric line and each chord line independently within the column.
+- **Trade-off:** `white-space: pre` preserves the internal spacing of chord lines (so `G` is still 30 chars before `F9`), but centering shifts each line as a whole, which means a chord at column 30 may no longer appear directly above its syllable. This is an accepted trade-off — the colour coding (orange chords) makes the intent readable even without pixel-perfect vertical alignment.
+- `.marker` elements are also centered.
 
 ---
 

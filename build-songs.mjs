@@ -76,20 +76,44 @@ function esc(s) {
   return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
 
+// ── Per-song font size calculator ──────────────────────────────────────────
+// Available height for song body: viewport (1280px) − padding (24px) − compact header (~41px)
+// ≈ 1215px → 75.9rem at 16px base. Use 75rem as a conservative constant.
+const AVAILABLE_REM = 75;
+
+function calcFontSize(lineCount, markerCount, twoCol) {
+  if (lineCount === 0) return 1.0;
+  // Two-col songs render content across two columns, each up to AVAILABLE_REM tall.
+  const effective  = twoCol ? AVAILABLE_REM * 2 : AVAILABLE_REM;
+  // Each .line div: two spans × 1.3 line-height + 0.15rem margin-bottom on .lyrics
+  const lineF      = 2.6;
+  const lineFixed  = 0.15; // rem
+  // Each .marker: font-size 0.75em × 1.5 body-line-height + 0.9rem top+bottom margins
+  const mkrF       = 1.125;
+  const mkrFixed   = 0.9;  // rem
+
+  const numerator   = effective - lineFixed * lineCount - mkrFixed * markerCount;
+  const denominator = lineF * lineCount + mkrF * markerCount;
+  const size = numerator / denominator;
+  return Math.max(0.72, size); // floor at 0.72rem (minimum readable on target device)
+}
+
 // ── Content parser ─────────────────────────────────────────────────────────
-// Returns { bodyHTML, twoCol }
+// Returns { bodyHTML, twoCol, lineCount, markerCount }
 function parseContent(innerLines) {
   let html = '';
   let pendingChords = null; // raw line (spacing preserved for white-space:pre)
+  let twoCol = false;
+  let lineCount = 0;
+  let markerCount = 0;
 
   function flushChords() {
     if (pendingChords !== null) {
       html += `    <div class="line">\n      <span class="chords">${esc(pendingChords)}</span>\n    </div>\n`;
       pendingChords = null;
+      lineCount++;
     }
   }
-
-  let twoCol = false;
 
   for (const line of innerLines) {
     const trimmed = line.trim();
@@ -105,8 +129,10 @@ function parseContent(innerLines) {
       if (trimmed === '== COLBREAK ==') {
         twoCol = true;
         html += `\n    <p class="marker colbreak">${esc(trimmed)}</p>\n\n`;
+        // colbreak is hidden (display:none) — don't count it in height
       } else {
         html += `\n    <p class="marker">${esc(trimmed)}</p>\n\n`;
+        markerCount++;
       }
       continue;
     }
@@ -125,15 +151,16 @@ function parseContent(innerLines) {
       }
       html += `      <span class="lyrics">${esc(trimmed)}</span>\n`;
       html += `    </div>\n`;
+      lineCount++;
     }
   }
 
   flushChords();
-  return { bodyHTML: html, twoCol };
+  return { bodyHTML: html, twoCol, lineCount, markerCount };
 }
 
 // ── HTML template ──────────────────────────────────────────────────────────
-function generateHTML(title, artist, bodyHTML, twoCol) {
+function generateHTML(title, artist, bodyHTML, twoCol, fontSize) {
   const mainClass = twoCol ? 'song-body two-col' : 'song-body';
   return `<!DOCTYPE html>
 <html lang="pt-BR">
@@ -145,11 +172,10 @@ function generateHTML(title, artist, bodyHTML, twoCol) {
 </head>
 <body>
   <header class="song-header">
-    <h1 class="song-title">${esc(title)}</h1>
-    <p class="song-artist">${esc(artist)}</p>
+    <h1 class="song-title">${esc(title)} · <span class="song-artist">${esc(artist)}</span></h1>
   </header>
 
-  <main class="${mainClass}">
+  <main class="${mainClass}" style="font-size: ${fontSize.toFixed(3)}rem">
 
 ${bodyHTML}
   </main>
@@ -171,7 +197,8 @@ async function processFile(mdPath, artistName, songTitle) {
   }
 
   const innerLines = lines.slice(fenceStart + 1, fenceEnd);
-  const { bodyHTML, twoCol } = parseContent(innerLines);
+  const { bodyHTML, twoCol, lineCount, markerCount } = parseContent(innerLines);
+  const fontSize = calcFontSize(lineCount, markerCount, twoCol);
 
   const artistSlug = slugify(artistName);
   const songSlug   = slugify(songTitle);
@@ -179,8 +206,8 @@ async function processFile(mdPath, artistName, songTitle) {
   const outPath    = join(outDir, `${songSlug}.html`);
 
   await mkdir(outDir, { recursive: true });
-  await writeFile(outPath, generateHTML(songTitle, artistName, bodyHTML, twoCol), 'utf-8');
-  return { ok: true, twoCol, outPath };
+  await writeFile(outPath, generateHTML(songTitle, artistName, bodyHTML, twoCol, fontSize), 'utf-8');
+  return { ok: true, twoCol, outPath, fontSize };
 }
 
 // ── Main ───────────────────────────────────────────────────────────────────
@@ -189,6 +216,7 @@ const artistDirs = (await readdir(songsMDDir, { withFileTypes: true }))
   .sort((a, b) => a.name.localeCompare(b.name, 'pt'));
 
 let total = 0, twoColCount = 0, errors = 0;
+let minFont = Infinity, maxFont = 0;
 
 for (const artistDir of artistDirs) {
   const songs = (await readdir(join(songsMDDir, artistDir.name)))
@@ -202,6 +230,8 @@ for (const artistDir of artistDirs) {
     if (result.ok) {
       total++;
       if (result.twoCol) twoColCount++;
+      if (result.fontSize < minFont) minFont = result.fontSize;
+      if (result.fontSize > maxFont) maxFont = result.fontSize;
     } else {
       console.error(`  SKIP ${artistDir.name} / ${songTitle}: ${result.reason}`);
       errors++;
@@ -210,3 +240,4 @@ for (const artistDir of artistDirs) {
 }
 
 console.log(`\nDone: ${total} songs written (${twoColCount} two-col, ${total - twoColCount} single-col), ${errors} skipped`);
+console.log(`Font range: ${minFont.toFixed(3)}rem – ${maxFont.toFixed(3)}rem`);
