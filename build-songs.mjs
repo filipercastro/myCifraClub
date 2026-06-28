@@ -63,6 +63,43 @@ function isValidChordToken(tok) {
   return CHORD_STANDARD.test(tok) || CHORD_EXTRA.test(tok) || isConcatenatedChords(tok);
 }
 
+// Parse a concatenated chord token into space-separated individual chords.
+// e.g. "CEmCEm" → "C Em C Em",  "EA5EA5" → "E A5 E A5"
+function expandConcatenatedChords(s) {
+  const parts = [];
+  let i = 0;
+  while (i < s.length) {
+    // collect leading parens / digits as their own segment
+    const prefStart = i;
+    while (i < s.length && /[\(\)0-9xX]/.test(s[i])) i++;
+    if (i > prefStart) parts.push(s.slice(prefStart, i));
+    if (i >= s.length) break;
+    if (!/[A-G]/.test(s[i])) break;
+    const cStart = i;
+    i++; // note letter
+    if (i < s.length && /[#b]/.test(s[i])) i++; // sharp/flat
+    const qual = s.slice(i).match(/^(m(aj)?|maj|min|dim|aug|sus[24]?|add)/);
+    if (qual) i += qual[0].length;
+    while (i < s.length && /[0-9]/.test(s[i])) i++; // numbers
+    if (i < s.length && s[i] === '/') { // slash chord
+      i++;
+      if (i < s.length && /[A-G]/.test(s[i])) { i++; if (i < s.length && /[#b]/.test(s[i])) i++; }
+    }
+    while (i < s.length && /[\)\(]/.test(s[i])) i++; // trailing parens
+    parts.push(s.slice(cStart, i));
+  }
+  return parts.join(' ');
+}
+
+// Expand concatenated chord tokens inside a chord line while preserving all whitespace.
+function expandChordLine(line) {
+  return line.replace(/\S+/g, tok => {
+    if (CHORD_STANDARD.test(tok) || CHORD_EXTRA.test(tok)) return tok;
+    if (isConcatenatedChords(tok)) return expandConcatenatedChords(tok);
+    return tok;
+  });
+}
+
 function isChordLine(line) {
   const t = line.trim();
   if (!t) return false;
@@ -139,7 +176,7 @@ function parseContent(innerLines) {
 
     if (isChordLine(line)) {
       flushChords();
-      pendingChords = line; // preserve spacing for white-space:pre
+      pendingChords = expandChordLine(line); // preserve spacing; expand run-on chord tokens
     } else {
       // Lyric line
       html += `    <div class="line">\n`;
