@@ -186,7 +186,7 @@ function parseContent(innerLines) {
       } else {
         html += `      <span class="chords"></span>\n`;
       }
-      html += `      <span class="lyrics">${esc(trimmed)}</span>\n`;
+      html += `      <span class="lyrics">${esc(line.trimEnd())}</span>\n`;
       html += `    </div>\n`;
       lineCount++;
     }
