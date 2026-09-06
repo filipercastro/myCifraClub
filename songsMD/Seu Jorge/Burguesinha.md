@@ -12,7 +12,7 @@ Malha o dia inteiro   Vida de artista
 Saca dinheiro   Vai de motorista
                  Bm7
 Com seu carro esporte
-             E7(9)
+             E7( 9)
 Vai zoar na pista
             A7M             D7M
 Final de semana   Na casa de praia
@@ -22,7 +22,7 @@ Só gastando grana   Na maior gandaia
 Vai pra balada   Dança bate estaca
             Bm7
 Com a sua tribo
-             E7(9)
+             E7( 9)
 Até de madrugada
        A7M
 Burguesinha, burguesinha, burguesinha

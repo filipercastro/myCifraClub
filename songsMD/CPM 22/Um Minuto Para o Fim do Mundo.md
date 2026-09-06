@@ -41,8 +41,8 @@ Me falta o ar pra respirar
 E só de pensar em te perder por um segundo,
            G               C
 Eu sei que isso é o fim do mundo
-CGAmF
-AmF                       C          G        Am
+C G Am F
+Am F                       C          G        Am
       Volto o relógio para trás tentando adiar o fim,
 F                     C            G                    Am
   tentando esconder o medo de te perder quando me sinto assim
@@ -52,6 +52,6 @@ F              C              G        C
   Fugir pra outro lugar em uma outra direção porque
 REFRÃO
  2x
-        (F)                    C
+        ( F)                    C
 Eu sei que isso é o fim (2x) do mundo
 ```

@@ -2,7 +2,7 @@
 **Fagner**
 
 ```
-BmE
+Bm E
 
 == PRIMEIRA PARTE ==
 
@@ -13,7 +13,7 @@ Dividido entre a esperança
 E a razão
  Bm            D
 Tenho um coração
-        Bm          E  BmE
+        Bm          E  Bm E
 Bem melhor que não tivera
 A
 Esse coração
@@ -22,7 +22,7 @@ Não consegue se conter
 Ao ouvir tua voz
  Bm         D
 Pobre coração
-           Bm       E  BmE
+           Bm       E  Bm E
 Sempre escravo da ternura
 
 == REFRÃO ==
@@ -33,7 +33,7 @@ Para em teu límpido
                E
 Aquário mergulhar
 Fazer borbulhas de amor
-             BmD
+             Bm D
 Pra te encantar
     Bm            E
 Passar a noite em claro
@@ -45,7 +45,7 @@ Para enfeitar de corais
         E
 Tua cintura
 Fazer silhuetas de amor
-          BmD
+          Bm D
 À luz da lua
     Bm        E
 Saciar esta loucura
@@ -60,7 +60,7 @@ Que esta alma necessita
 De ilusão
  Bm         D
 Sonha coração
-       Bm           E  BmE
+       Bm           E  Bm E
 Não te enchas de amargura
 A
 Esse coração
@@ -69,9 +69,8 @@ Não consegue se conter
 Ao ouvir tua voz
  Bm         D
 Pobre coração
-           Bm       E  BmE
+           Bm       E  Bm E
 Sempre escravo da ternura
-
 
 == COLBREAK ==
 

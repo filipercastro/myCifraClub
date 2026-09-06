@@ -28,11 +28,13 @@ Eu não sei parar de te olhar
 Não vou parar de te olhar
            Am7
 Eu não me canso de olhar
-         C9    D
+         C9      D
 Não sei par.....ar
          C9
 De te olhar
-SEGUNDA PARTE
+
+== SEGUNDA PARTE ==
+
         G
 É isso aí
                        C9
@@ -52,6 +54,9 @@ A escolher seus amores
 
 == REFRÃO ==
 
-([Em7C9Am7)(C9DG)REFRÃO
-SEGUNDA PARTE]
+([Em7C9Am7)(C9DG)
+
+== SEGUNDA PARTE ==
+
+== REFRÃO ==
 ```

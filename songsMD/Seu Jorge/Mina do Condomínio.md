@@ -2,11 +2,11 @@
 **Seu Jorge**
 
 ```
-Bm7E7Bm7E7
+Bm7 E7 Bm7 E7
 
 == 1ª PARTE ==
 
-(Bm7   E7           Bm7
+( Bm7   E7           Bm7
      Tô namorando aquela mina
      E7                Em
 Mas não sei se ela me namora
@@ -33,9 +33,9 @@ Nem preciso me encontrar
 Não me mostre o paraíso
                            Bm7
 Que se eu for, não vou voltar
-         F#7Bm7
+         F#7 Bm7
 Pois eu vou
-(Bm7     F#7
+( Bm7     F#7
      Eu vou) 3x
 
 == 3ª PARTE ==
@@ -63,7 +63,6 @@ Chego junto ela sai fora
                     Bm7  E7
 Eu escrevo ela não lê
 
-
 == COLBREAK ==
 
 == REFRÃO ==
@@ -88,19 +87,15 @@ quero seu fascínio ) 2x
 
 == 1ª PARTE ==
 
-
 == 2ª PARTE ==
-
 
 == 3ª PARTE ==
 
-
 == REFRÃO ==
-
 
 == PONTE ==
 
-(Bm7E7             Bm7
+( Bm7 E7             Bm7
          Minha namorada
 E7              Em
    Do meu condomínio
@@ -110,9 +105,7 @@ Quero seu fascínio ) 2X
 
 == REFRÃO ==
 
-
 == PONTE ==
-
 
 == REFRÃO ==
 

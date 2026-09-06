@@ -41,6 +41,6 @@ PRE REFRÃO
 
 == REFRÃO ==
 
-    A EDAED
+    A E D A E D
 Jamais
 ```

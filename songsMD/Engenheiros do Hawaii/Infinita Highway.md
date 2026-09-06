@@ -2,8 +2,8 @@
 **Engenheiros do Hawaii**
 
 ```
-AC#mDE
-AC#mDE
+A C#m D E
+A C#m D E
 
 == Primeira Parte ==
 
@@ -40,7 +40,7 @@ Sem motivos nem objetivos
 Estamos vivos e isto é tudo
                D E
 É sobretudo a lei
-             A    C#mDE
+             A    C#m D E
 Da infinita highway
   A                  C#m
 Quando eu vivia e morria na cidade
@@ -68,11 +68,11 @@ Não queremos aprender o que sabemos
 Não queremos nem saber
  D             E
 Sem motivos nem objetivos
-   A         C#mF#m
+   A         C#m F#m
 Estamos vivos e é só
                  D E
 Só obedecemos à lei
-             A     C#mDE
+             A     C#m D E
 Da infinita highway
    A                   C#m
 Escute garota, o vento canta uma canção
@@ -103,13 +103,12 @@ Estamos vivos sem motivos
 Que motivos temos pra estar?
    D                   E
 Atrás de palavras escondidas
-          A            C#mF#mD  E
+          A            C#m F#m D  E
 Nas entrelinhas do horizonte desta highway
-            A     C#mDE
+            A     C#m D E
 Silenciosa highway
 ( A C#m D  E )
 ( A C#m D  E )
-
 
 == COLBREAK ==
 
@@ -138,8 +137,8 @@ Elas parecem facas de dois gumes
 
 == Solo ==
 
-DEAC#mF#mDE
-AC#mDE
+D E A C#m F#m D E
+A C#m D E
 
 == Quarta Parte ==
 
@@ -171,7 +170,7 @@ D          E           F#m
  Só pra ver até quando   o motor agüenta
     D             E
 Na boca, em vez de um beijo, um chiclete de menta
-     A              Bm           C#mDE
+     A              Bm           C#m D E
 E a sombra de um sorriso que eu deixei
                      A     D   A
 Numas das curvas da highway,  highway
@@ -179,5 +178,5 @@ E           A     D  A
   Infinita highway, highway
 E             A      D  A
   Silenciosa highway,  highway
-FEADAEA
+F E A D A E A
 ```

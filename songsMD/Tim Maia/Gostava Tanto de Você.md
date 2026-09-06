@@ -47,9 +47,9 @@ Lugar qualquer que não exista
                    A7MBm7
 O pensamento em você
 REFRÃO PRIMEIRA PARTE
- -&gt;
+ ->
 REFRÃO SEGUNDA PARTE
- -&gt;
+ ->
 
 == REFRÃO ==
 ```

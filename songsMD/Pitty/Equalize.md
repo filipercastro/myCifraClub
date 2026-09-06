@@ -2,14 +2,14 @@
 **Pitty**
 
 ```
-EmDEmD
-   (D    A/C#)  Bm
+Em D Em D
+   ( D    A/C#)  Bm
 As vezes se eu me distraio
                 Em
 Se eu não me vigio um instante
          F#m             D
 Me transporto pra perto de você
-      (D    A/C#)Bm
+      ( D    A/C#) Bm
 Já vi que não posso ficar tão solta
                Em
 Me vem logo aquele cheiro
@@ -44,13 +44,13 @@ D        Bm          D    Bm
   Eu te transformei nessa canção
 D       Bm      A     G  G  D
   Pra poder te gravar em mim
- (D       A/C#)Bm
+ ( D       A/C#) Bm
 Adoro essa sua    cara de sono
                Em
 E o timbre da sua voz
           F#m                  D
 Que fica me dizendo coisas tão malucas
-  (D  A/C#)Bm
+  ( D  A/C#) Bm
 E que quase me mata de rir
                  Em
 Quando tenta me convencer
@@ -68,7 +68,6 @@ Em
 E porque quando você me abraça
          G       A
 O mundo gira devagar
-
 
 == COLBREAK ==
 

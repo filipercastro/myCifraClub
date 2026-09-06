@@ -2,7 +2,7 @@
 **Skank**
 
 ```
-F#mEF#mE
+F#m E F#m E
          A          E4
 Vamos fugir deste lugar, baby
         F#m
@@ -65,7 +65,6 @@ Vamos fugir
 Tô cansado de esperar
   E              F#m
 Que você me carregue
-
 
 == COLBREAK ==
 

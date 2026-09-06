@@ -4,11 +4,11 @@
 ```
 == Intro ==
 
-CEmCEm
+C Em C Em
 C   Em C   Em
 Ah, hei.. Ah, hei
-AmEmAmEm
-F  G             C  EmCEm
+Am Em Am Em
+F  G             C  Em C Em
 Ah,   La Belle de Jour
 C   Em C   Em
 Ah, hei.. Ah, hei
@@ -31,11 +31,10 @@ Era a bela da tarde
 Seus olhos azuis como a tarde
     G
 Na tarde de um domingo azul
-             C  EmCEm
+             C  Em C Em
 La Belle de Jour
 
 == Primeira Parte ==
-
 
 == Segunda Parte ==
 
@@ -59,31 +58,31 @@ No azul viajava
 Seus olhos azuis como a tarde
     G
 Na tarde de um domingo azul
-             C  EmCEm
+             C  Em C Em
 La Belle de Jour
 
 == COLBREAK ==
 
-(2xC  Em
+(2x C  Em
     Mar e Sol
-    C
-    Gira, gira, gira
-                               Em
-    Gira, gira, gira, gira, girassol )
-(2xC                         Em
+C
+Gira, gira, gira
+                           Em
+Gira, gira, gira, gira, girassol )
+(2x C                         Em
        Um girassol nos teus cabelos
-     C                      Em
-       Batom vermelho, girassol
-        F             Em
-     Morena flor do desejo
-     F        G              C EmC Em
-     Ah, teu cheiro em meu lençol )
-(2xAm         Em
+C                      Em
+  Batom vermelho, girassol
+   F             Em
+Morena flor do desejo
+F        G              C Em C Em
+Ah, teu cheiro em meu lençol )
+(2x Am         Em
     Desço pra rua, sinto saudade
-     Am           Em
-    Gata selvagem, sou caçador
-       F             Em
-    Morena flor do desejo
-    F         G         (C  Em  C  Em) 2x
-    Ah, teu cheiro matador )
+ Am           Em
+Gata selvagem, sou caçador
+   F             Em
+Morena flor do desejo
+F         G         ( C  Em  C  Em) 2x
+Ah, teu cheiro matador )
 ```

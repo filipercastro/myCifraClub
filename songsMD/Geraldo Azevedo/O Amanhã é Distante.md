@@ -2,10 +2,10 @@
 **Geraldo Azevedo**
 
 ```
-CFFC
+C F F C
       C       F            C  F
 E se hoje não fosse essa estrada
-      C          F           C   FC
+      C          F           C   F C
 Se a noite não tivesse tanto atalho
        F     G           C
 O amanhã não fosse tão distante
@@ -25,7 +25,7 @@ Se ao menos mentisse ao meu lado
 Estaria em minha cama... outra vez
         C          F         C    F
 Meu reflexo não consigo ver na água
-       C      F              C FC
+       C      F              C F C
 Nem fazer canções sem nenhuma dor
        F   G            C
 Nem ouvir o eco dos meus passos
@@ -36,7 +36,7 @@ Nem lembrar meu nome quando alguém chamou
 
      C      F         C   F
 Há beleza no rio do meu canto
-     C      F               C  FC
+     C      F               C  F C
 Há beleza em tudo o que há no céu
        F          G            C
 Porém nada com certeza é mais bonito

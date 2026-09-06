@@ -2,7 +2,7 @@
 **Skank**
 
 ```
-FBbmFCBbF
+F Bbm F C Bb F
 C            Bb            F
   Escutei alguém abrir os portões
 C              Bb         F
@@ -24,7 +24,7 @@ F            Bbm         F
 Vem dizer que você não sabe
 F            Bbm       F
   E quanto a mim, não é o fim
-          C                      BbF
+          C                      Bb F
 Nem há razão pra que um dia acabe
 C           Bb           F
   Cada um terá razões ou arpões
@@ -44,10 +44,9 @@ Dm           G             Bb
 
 == REFRÃO ==
 
-
 == PONTE ==
 
-(C                      Bb                 F
+( C                      Bb                 F
    Tchu tchu tchu tchu tchu ru tchu tchu ru tchu ) 2X
 Bbm                            F
     Somos dois contra a parede e tudo tem três lados

@@ -21,7 +21,7 @@ Já foi o cenário de um grande amor
 
 == REFRÃO ==
 
-DmC7
+Dm C7
 E  hoje o que encontrei
                  F
 Me deixou mais triste
@@ -29,15 +29,15 @@ Me deixou mais triste
 Um pedacinho dela que existe
              Bb            F C/E
 Um fio de cabelo no meu paletó
- DmC7
+ Dm C7
 Lembrei de tudo entre nós
            F
 Do amor vivido
                           C7
 Aquele fio de cabelo comprido
-              Bb    C7  F  C/EDm
+              Bb    C7  F  C/E Dm
 Já esteve grudado em nosso suor
-C7FC7F
+C7 F C7 F
                F
 Quando a gente ama
             C7             F

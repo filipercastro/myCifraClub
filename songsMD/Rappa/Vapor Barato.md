@@ -70,17 +70,13 @@ A minha imensa obsessão
 E
   A minha grande obsessão
 
-
 == COLBREAK ==
 
 == REFRÃO ==
 
-
 == INTRO ==
 
-
 == PRIMEIRA PARTE ==
-
 
 == REFRÃO ==
 ```

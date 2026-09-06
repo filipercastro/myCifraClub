@@ -2,7 +2,7 @@
 **Skank**
 
 ```
-AmG
+Am G
 Am
    Misterioso luar de fronteira
 Derramando no espinhaço quase um mar
@@ -36,7 +36,7 @@ Boatos de que eu ficarei aqui
 Espalhe por aí
                       C
 Boatos de que eu ficarei aqui
-AmG
+Am G
           Am
 Vem, mamacita, doida e meiga
                     G
@@ -45,7 +45,6 @@ Sempre o âmago dos fatos
 Minha guerra e as flores do cactos
                      G
 Poema, cinema, trincheira
-
 
 == COLBREAK ==
 
@@ -58,7 +57,7 @@ Me disse que era um dervixe
                        G
 Eu disse pra ele, camarada
 Acredito em tanta coisa
-              AmG
+              Am G
 Que não vale nada
 
 == REFRÃO ==
@@ -71,7 +70,7 @@ Boatos de que eu ficarei aqui
 Espalhe por aí
                       C
 Boatos de que eu ficarei aqui
-AmG
+Am G
 
 == REFRÃO ==
 

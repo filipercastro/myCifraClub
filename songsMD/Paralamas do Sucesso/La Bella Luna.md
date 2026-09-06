@@ -20,7 +20,7 @@ A noite passada
 Você veio me ver
    E           B7
 A noite passada
-                 EB7
+                 E B7
 Eu sonhei com você
    E              B7
 Ó Lua de cosmo no céu estampada
@@ -30,5 +30,5 @@ Permita que eu possa adormecer
 Quem sabe de novo nessa madrugada
 E             B7
  Ela resolva aparecer
-EB7
+E B7
 ```

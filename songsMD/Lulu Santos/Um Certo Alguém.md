@@ -53,7 +53,7 @@ G        Em
   Inspiração
      Bm          D
 Pra tudo que eu viver
-BGB7EmFAmFD
+B G B7 Em F Am F D
 Am                  Cm
   Quando um certo alguém
     G          Em
@@ -61,7 +61,6 @@ Cruzou o teu caminho
       Bm         D
 É melhor não resistir
 E se entregar
-
 
 == COLBREAK ==
 
@@ -75,7 +74,7 @@ Am                  Cm
 Desperta o sentimento
       Bm         D
 É melhor não resistir
-           GB7
+           G B7
 E se entregar
-GB7Em
+G B7 Em
 ```

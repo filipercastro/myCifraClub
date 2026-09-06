@@ -2,7 +2,7 @@
 **Skank**
 
 ```
-CFCF
+C F C F
 
 == PRIMEIRA PARTE ==
 
@@ -33,7 +33,7 @@ F       C
   Tequila
 F      C              F
  Oh Jaqueline Misty yeh oh
-      CF
+      C F
 Tequila
 2x ( C  F  C  F )
         C               F
@@ -52,7 +52,6 @@ O bonde do desejo segue rumo
 Caixa, bumbo e sexo
          C                  F
 Saudade na rampa do mundo oh oh
-
 
 == COLBREAK ==
 
@@ -98,12 +97,11 @@ Oh oh yeh
 
 == PRIMEIRA PARTE ==
 
-
 == REFRÃO ==
 
 2x ( C  F  C  F )
 
 == PASSAGEM ==
 
-FCFCFCFCFC
+F C F C F C F C F C
 ```

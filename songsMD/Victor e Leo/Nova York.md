@@ -2,7 +2,7 @@
 **Victor e Leo**
 
 ```
-GDAmCG
+G D Am C G
 Primeir[GDAmCG
 a Parte]
 Am           C          G
@@ -28,7 +28,7 @@ C                  G
 Saudade vai, vai, vai
          Am      C      G
 Saudade vem, vem, vem te buscar
-GDAmC
+G D Am C
 Primei[GDAmC
 ra Parte]
 

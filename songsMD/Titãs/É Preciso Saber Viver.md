@@ -37,7 +37,7 @@ E         G       A7
 
 G         D      Bm
 É preciso saber viver  4x
- E         GA7
+ E         G A7
 Saber viver
 Base Solo: D DM7 D7 G Gm D E G A7   4x
 PRIMEIRA PARTE

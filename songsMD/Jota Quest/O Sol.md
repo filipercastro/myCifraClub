@@ -35,7 +35,7 @@ Pra onde eu vou
 Pra onde tenha Sol
 A
 É pra lá que eu vou
-AEGD
+A E G D
 A
 Ei, dor
              E
@@ -51,8 +51,8 @@ Você não me leva a nada
 
 == REFRÃO ==
 
-G/AAG/AA
-G/AAG/AA
+G/A A G/A A
+G/A A G/A A
 
 == REFRÃO ==
 ```

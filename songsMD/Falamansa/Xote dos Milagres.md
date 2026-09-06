@@ -2,7 +2,7 @@
 **Falamansa**
 
 ```
-GDAmCD
+G D Am C D
 G           D       Am
 Escrevi seu nome na areia
    G                  D

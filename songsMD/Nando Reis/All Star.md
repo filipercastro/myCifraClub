@@ -2,7 +2,7 @@
 **Nando Reis**
 
 ```
-EA7EA7
+E A7 E A7
 E
  Estranho seria
                     A7M
@@ -60,7 +60,6 @@ E
             A7M
 Para a tua voz parece exato
 
-
 == COLBREAK ==
 
 == REFRÃO ==
@@ -82,5 +81,5 @@ E continuar aquela conversa
 Que não terminamos ontem
            E  A7M
 Ficou pra hoje
-FEA7EA7
+F E A7 E A7
 ```

@@ -12,7 +12,7 @@ Pra você guardei o amor que nunca soube dar
 O amor que tive e vi, sem me deixar
     G
 Sentir, sem conseguir provar
-    Em7           A7A7/4A7
+    Em7           A7 A7/ 4 A7
 Sem entregar e repartir
   D                         A
 Pra você guardei o amor que sempre quis mostrar
@@ -20,7 +20,7 @@ Pra você guardei o amor que sempre quis mostrar
 O amor que vive em mim, vem visitar
     G
 Sorrir, vem colorir, solar
-    Em7            A7A7/4A7
+    Em7            A7 A7/ 4 A7
 Vem esquentar e permitir
      D                        A
 Quem acolher o que ele tem e trás
@@ -28,8 +28,10 @@ Quem acolher o que ele tem e trás
 Quem entender o que ele diz no giz
                     G
 Do gesto, o jeito pronto num piscar dos cílios
-  Em7                    A7A7/4A7
+  Em7                    A7 A7/ 4 A7
 Que o convite do silêncio exibe em cada olhar
+
+== COLBREAK ==
 
 == Refrão ==
 
@@ -52,7 +54,7 @@ Segunda Parte
 Pra você guardei o amor que aprendi vem dos meus pais
     Bm                    G                       Em7
 O amor que tive e recebi e hoje posso dar livre e feliz
-                                A         A7/4   A7
+                                A         A7/ 4   A7
 Céu, cheiro e o ar na cor que o arco íris risca ao levitar
  D                        A
 Vou nascer de novo, lápis, edifício, tevere, ponte
@@ -60,7 +62,7 @@ Vou nascer de novo, lápis, edifício, tevere, ponte
 Desenhar no seu quadril
       G
 Meus lábios beijam signos feito
- Em7                          A7  A7/4A7
+ Em7                          A7  A7/ 4 A7
 Sinos trilho a infância terço o berço do seu lar
 
 == Refrão ==
@@ -79,6 +81,6 @@ Achei vendo em você, explicação nenhuma isso requer
 Se o coração bater forte e arder
            G        A7
 No fogo o gelo vai queimar
-FDABm
-GEm7A7A7A
+F D A Bm
+G Em7 A7 A7 A
 ```

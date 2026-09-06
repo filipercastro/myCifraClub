@@ -31,17 +31,17 @@ Eu não vou mas o tempo vem aqui
 
  C#m       A7M
 Mesmo sem te ver
- C#m        F#7(11)
+ C#m        F#7( 11)
 Não chegou ao fim
  C#m  A7M       C#mA7M
 Seu amor,    tudo em mim
-(E       B4C#m      A5(9)
+( E       B4 C#m      A5( 9)
    Se não for mais do que tento ser
- E        B4A5(9)
+ E        B4 A5( 9)
    Se não for mais    ) 2x
 ([C#mB4A5(9)C#mB4A5(9))2x
 REFRÃO - variação no final]
 F#7(11)    A7M      C#mB4A5(9)
 Eu não vou mas o tempo vem aqui
-FC#mB4A5
+F C#m B4 A5
 ```

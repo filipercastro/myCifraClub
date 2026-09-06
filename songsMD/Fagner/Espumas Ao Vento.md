@@ -34,7 +34,7 @@ E sem saber direito a hora e o que fazer
 Eu não encontro uma palavra só pra te dizer
                    F
 Ah! Se eu fosse você amor,
-       E7             Am F7E7
+       E7             Am F7 E7
 eu voltava pra mim de novo
 Primeira ParteSegunda Parte
 
@@ -46,10 +46,10 @@ Primeira ParteSegunda Parte
    A porta vai estar sempre aberta, amor
  F                         Bm7(5-)
    O meu olhar vai dar uma festa, amor
- E7                    AmA7
+ E7                    Am A7
     Na hora que você chegar       ) 2x
 Segunda ParteRefrão
 (Dm[AmC7F)(E7AmA7)
 ½ Refrão]
-FFEmDmBm7E7Am
+F F Em Dm Bm7 E7 Am
 ```

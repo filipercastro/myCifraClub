@@ -2,7 +2,7 @@
 **Tribalistas**
 
 ```
-AmCFG
+Am C F G
  Am       C                     F
 Já sei namorar   Já sei beijar de língua
         G             Am

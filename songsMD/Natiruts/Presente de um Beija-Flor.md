@@ -25,7 +25,7 @@ Olha só como é lindo meu amor
 Estou feliz agora
       Am                  D
 Veja só a névoa branca que sai
-                 BmEm
+                 Bm Em
 De trás do bambuzal
          Am           D
 Será que ela me faz bem
@@ -44,7 +44,7 @@ Que deixa o meu povo infeliz
 
        Am
 E a menina que um dia
-      D             BmEm
+      D             Bm Em
 Por acaso veio me dizer
             Am                   D
 Que não gostava de meninos tão largados
@@ -58,7 +58,6 @@ Perto da beleza do Planalto Central
 E das pessoas que fazem do Cerrado
        Bm        E7
 O habitat quase ideal
-
 
 == COLBREAK ==
 
@@ -98,5 +97,5 @@ Que deixa o meu povo infeliz
 
 == REFRÃO ==
 
-BAmDBmEm
+B Am D Bm Em
 ```

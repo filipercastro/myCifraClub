@@ -2,8 +2,8 @@
 **Vanessa Rangel**
 
 ```
-EF#/EAE
-EF#/EAE
+E F#/E A E
+E F#/E A E
 E
  Tô com saudade de você
                 F#/E

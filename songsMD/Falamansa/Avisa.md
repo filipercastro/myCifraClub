@@ -2,7 +2,7 @@
 **Falamansa**
 
 ```
-Am7C/GG
+Am7 C/G G
 
 == PRIMEIRA PARTE ==
 
@@ -51,7 +51,7 @@ Tenho que chorar
 
 == REFRÃO 2 ==
 
-(Am7
+( Am7
  Lê la la lauê la
   C/G
  Lê la la lauê
@@ -59,11 +59,9 @@ Tenho que chorar
 Laiê laia laia) 2X
 ( Am7  C/G  G ) 2X
 
-
 == COLBREAK ==
 
 == PRIMEIRA PARTE ==
-
 
 == REFRÃO 1 ==
 
@@ -102,6 +100,6 @@ Chegar Chegar Chegar
 
 == REFRÃO 2 ==
 
-FAmC/GG
+F Am C/G G
 Am
 ```

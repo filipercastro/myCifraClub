@@ -59,7 +59,6 @@ C           Eb
   Na voz a vida ouvi dizer
 G7
 
-
 == COLBREAK ==
 
 == Terceira Parte ==
@@ -78,14 +77,11 @@ O dia e a noite as quatro estações
 
 == Primeira Parte ==
 
-
 == Pré-Refrão 1 ==
-
 
 == REFRÃO ==
 
-
 == Terceira Parte ==
 
-EFCCmG
+E F C Cm G
 ```

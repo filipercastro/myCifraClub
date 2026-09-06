@@ -29,7 +29,7 @@ B                F#          C#
   Contra a tempestade em copo d'água
 B         F#        G#m
   Dance o xote da alegria
-  A#mB  C#
+  A#m B  C#
   aaah haa hei hei
 F#              C#
   Um dêrum dêrum dêrum

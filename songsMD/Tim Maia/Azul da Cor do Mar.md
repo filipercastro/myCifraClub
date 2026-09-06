@@ -18,7 +18,7 @@ Tem que entender
 Que um nasce pra sofrer
 E7(4/9)            A7M
         Enquanto o outro ri
-Bm7C#m7D7E7
+Bm7 C#m7 D7 E7
 
 == REPETE ==
 
@@ -38,9 +38,9 @@ Pra sonhar
 Ter um sonho todo azul
 E7(4/9)          A7M        /REPETE
         Azul da cor do mar
-Bm7C#m7D7E7
+Bm7 C#m7 D7 E7
 
 == REPETE ==
 
-Bm7C#m7D7E7A7
+Bm7 C#m7 D7 E7 A7
 ```

@@ -2,7 +2,7 @@
 **Ana Vilela**
 
 ```
-A9D9A9EE4E
+A9 D9 A9 E E4 E
              A9
 Não é sobre ter
                                D9
@@ -75,7 +75,6 @@ Porque quando menos se espera
                       E
 A vida já ficou pra trás
 
-
 == COLBREAK ==
 
 == REFRÃO REPETE ==
@@ -92,7 +91,7 @@ Que a vida é trem bala, parceiro
 E a gente é só passageiro
            A9
 Prestes a partir [/REFRÃO REPETE
-   D9        E          A9
+   D9          E           A9
 Laiá, laiá, laiá, laiá, laiá  2x
 
 == REFRÃO REPETE ==

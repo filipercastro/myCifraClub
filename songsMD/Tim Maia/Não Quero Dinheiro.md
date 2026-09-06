@@ -13,7 +13,7 @@ A                 F#m
   Vou pedir pra você gostar
 A                 F#m
   Vou pedir pra você me amar
-      Dm                     E4A7(4)A7
+      Dm                     E4 A7( 4) A7
 Eu te amo, eu te adoro, meu amor
 
 == REFRÃO ==
@@ -24,7 +24,7 @@ A semana inteira, fiquei esperando
 Pra te ver sorrindo, pra te ver cantando
                Bm                  E4
 Quando a gente ama, não pensa em dinheiro
-             A                          A7(4)
+             A                          A7( 4)
 Só se quer amar, se quer amar, se quer amar
  A7       D                  E/D
 De jeito maneira, não quero dinheiro
@@ -46,7 +46,7 @@ A                 F#m
   Acontece que na vida a gente tem
 A                    F#m
   Ser feliz por ser amado por alguem
-             Dm                    E4A7(4)A7
+             Dm                    E4 A7( 4) A7
 Porque eu te amo, eu te adoro, meu amor
 
 == REFRÃO ==

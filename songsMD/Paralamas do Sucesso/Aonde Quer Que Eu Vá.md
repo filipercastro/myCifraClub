@@ -11,11 +11,11 @@ Am7                  C  Am7            C
 
 F                     Dm
   E aonde quer que eu vá
-        C G/BAm7
+        C G/B Am7
 Levo você no olhar
 F                   Dm
   Aonde quer que eu vá
-                   CG/BAm7
+                   C G/B Am7
 Aonde quer que eu vá
 SEGUNDA PARTE
 Am7              C  Am7          C
@@ -34,10 +34,10 @@ Meus sonhos vão te buscar
 Volta pra mim   Vem pro meu mundo
     G                D
 Eu sempre vou te esperar
-     Bm    F#mGFE7
+     Bm    F#m G F E7
 Larará, lararára
 SEGUNDA PARTE
-(F      Dm    C G/BAm7
+( F      Dm    C G/B Am7
  Lá, larará, larará
   F      Dm    C
  Lá, larará, larará

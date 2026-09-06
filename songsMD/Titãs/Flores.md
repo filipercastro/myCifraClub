@@ -47,6 +47,5 @@ PRIMEIRA PARTE]
 
 == PRE-REFRÃO ==
 
-
 == REFRÃO ==
 ```

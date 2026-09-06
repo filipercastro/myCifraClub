@@ -45,7 +45,7 @@ Mas vai existir eu sei vai
 
 Bm
 Ter que existir
- E                   E4/7
+ E                   E4/ 7
 Vai resistir nosso lugar
     A         D
 Solidão, quem pode evitar?
@@ -57,7 +57,7 @@ Meu coração, é secular
 Sonha e deságua dentro de mim
   D        Bm       E
 Amanhã devagar me diz como voltar
-ADBmE
+A D Bm E
          A
 Se eu disser
          D

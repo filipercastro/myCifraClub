@@ -2,7 +2,7 @@
 **Vitor Kley**
 
 ```
-EmAm
+Em Am
 
 == PRIMEIRA PARTE ==
 
@@ -56,17 +56,13 @@ Am                   Em
 D
   Quem foi
 
-
 == COLBREAK ==
 
 == PRIMEIRA PARTE ==
 
-
 == PRE REFRAO ==
 
-
 == REFRAO ==
-
 
 == Segunda parte ==
 

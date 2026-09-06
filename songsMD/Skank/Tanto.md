@@ -42,6 +42,8 @@ D
    Em                      D
 E me pedir pra te deixar partir
 
+== COLBREAK ==
+
 == REFRÃO ==
 
    Bm

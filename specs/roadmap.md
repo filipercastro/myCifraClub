@@ -83,6 +83,58 @@ Intro/solo lines in the source `.md` files sometimes contain chord sequences wri
 - Applied in `parseContent` when `pendingChords` is set.
 - Fixed 142 chord spans across the 150 songs.
 
+## Phase 9 — Colbreak Fix, New Songs & Codinome Beija-Flor ✅
+
+### 9a — Column-break marker fix ✅
+
+- `.marker.colbreak` had `display: none`, which removed the element from layout flow and made `break-before: column` inert. Fixed by keeping the element in flow with `height: 0; visibility: hidden; font-size: 0; line-height: 0; break-before: column`. Column splits now fire correctly.
+
+### 9b — Capital Inicial additions ✅
+
+- Added **O Passageiro** and **Tudo Que Vai** under Capital Inicial.
+- Both linked from `index.html`.
+
+### 9c — Codinome Beija-Flor fix ✅
+
+- All chord lines (`A7M`, `DM7`, `F7M`, `C7M`) were landing in `.lyrics` spans because the old parser didn't recognise Brazilian M-suffix chords. Rewrote the HTML with correct structure. The updated `CHORD_EXTENDED` regex and `isConcatenatedChords` now handle these automatically on any rebuild.
+
+---
+
+## Phase 10 — Font-Size Formula Overhaul & HTML→MD Sync ✅
+
+### 10a — Improved font-size formula ✅
+
+Three flaws in the Phase-7 formula were identified from tablet review:
+
+1. **Chord-only lines counted as full height** — solo/intro lines that have no lyric row (only a `.chords` span) are `1.3F rem` tall, not `2.6F + 0.15 rem`. Fixed by tracking `lineCountFull` vs `lineCountChordOnly` separately.
+2. **Lyric wrapping not modelled** — long lyrics in narrow two-col columns wrap, adding extra height. Fixed by iterative convergence: estimate chars-per-line from column width and current `F`, compute extra wrapped lines, recalculate `F`, repeat until `|ΔF| < 0.001`.
+3. **Available height slightly over-estimated** — reduced `AVAILABLE_REM` from 75 → 72.
+
+New constants: `COL_PX_SINGLE = 776`, `COL_PX_TWOCOL = 372`, `CHAR_RATIO = 0.6`.
+Result: 152 songs, font range **0.720 – 1.792 rem** (previously 0.720 – 1.879 rem with overflows).
+
+### 10b — Extended Brazilian chord recognition ✅
+
+Added `CHORD_EXTENDED` regex covering: `A7M`, `DM7`, `C7M`, `F7M` (M = major/maior), `A5+` (augmented), `D5(7M/9)`, `Bm7(9/11)`, `G4+(6)`, `Em7(13)`.
+
+Updated `isConcatenatedChords` and `expandConcatenatedChords` to consume M-suffix after digits, augmented `+`, and parenthetical extension blocks `(...)` as opaque units (so `/` inside parens is not mistaken for a slash-chord separator).
+
+Songs previously at floor (`primeiros-erros`, `codinome-beijaflor`) now compute correctly because chord lines are no longer mis-counted as lyric lines.
+
+### 10c — MD fixes and COLBREAK additions ✅
+
+- **Natasha.md** — removed O Passageiro + Tudo Que Vai content that had been accidentally appended inside the fence block (inflating line count to 76+). Added `== COLBREAK ==` to make it two-col.
+- **Pra Você Guardei o Amor**, **Anjos**, **Tanto** — added `== COLBREAK ==` at natural section boundaries, moving these songs from floor (0.720 rem single-col) to 0.999 / 1.155 / 1.071 rem two-col.
+
+### 10d — HTML → MD sync ✅
+
+Manual chord-alignment edits made directly to HTML files were not reflected in the source `.md` files. Wrote `sync-html-to-md.mjs` (reverse-build script):
+
+- Reads each song HTML, extracts chord content (`.chords` spans) and lyrics (`.lyrics` spans) in source order, preserving exact whitespace.
+- Reconstructs the fenced code block in the corresponding `.md` file while keeping the `# Title / **Artist**` header unchanged.
+- Created `.md` files for **O Passageiro** and **Tudo Que Vai** (previously hand-crafted HTML with no MD source).
+- 152 MD files updated. Future `node build-songs.mjs` runs reproduce the same chord content including all manual alignment edits.
+
 ---
 
 ## Future (unscheduled)

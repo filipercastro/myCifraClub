@@ -65,7 +65,6 @@ Que chamo sempre de &quot;meu bem”
           A
 A me esperar, a me esperar
 
-
 == COLBREAK ==
 
 == REFRÃO ==

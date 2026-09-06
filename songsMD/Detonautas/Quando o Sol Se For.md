@@ -14,7 +14,7 @@ Só me mostra o que eu quero esquecer
 Quando o sol se for meu amor vou onde você for
   A5           G5        B5         D5
 Quando o sol se for a luz indicará você pra mim
-A5G5B5D5
+A5 G5 B5 D5
  A5          G5
 Passo o tempo todo
       B5        D5
@@ -31,7 +31,7 @@ B5                    D5
     Não me canso de tentar
 B5                   D5
     Eu não quero entender
-A5G5B5D5
+A5 G5 B5 D5
  A5         G
 Penso no que faço
         B5             D5

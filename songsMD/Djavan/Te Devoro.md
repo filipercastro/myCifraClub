@@ -2,7 +2,7 @@
 **Djavan**
 
 ```
-D7Bm7G7Em7A7
+D7 Bm7 G7 Em7 A7
 
 == Primeira Parte ==
 
@@ -11,7 +11,7 @@ Teus sinais
                    Bm7
 Me confundem da cabeça aos pés
 Mas por dentro
-           Em7A7
+           Em7 A7
 Eu te devoro
  D7M
 Teu olhar
@@ -25,7 +25,7 @@ A qualquer preço
                      Bm7
 Porque te ignoro ou te conheço
 Quando chove
-                Em7A7
+                Em7 A7
 Ou quando faz frio
  D7M
 Noutro plano
@@ -35,7 +35,6 @@ Te devoraria tal Caetano
 A Leonardo DiCaprio
 A7
 É um milagre
-
 
 == COLBREAK ==
 
@@ -67,6 +66,6 @@ Não, não
 (    Eu quero mesmo é viver
   Bm7
 Pra esperar, esperar
-            Em7A7
+            Em7 A7
 Devorar você          ) 2x
 ```

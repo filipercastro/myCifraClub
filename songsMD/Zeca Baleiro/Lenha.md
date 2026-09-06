@@ -2,7 +2,7 @@
 **Zeca Baleiro**
 
 ```
-CGFC
+C G F C
               G                  F
 Eu não sei dizer,   O que quer dizer,
              C              G
@@ -39,7 +39,7 @@ Você não vai entender.
  Você traz a lenha
               C
  Pro meu fogo acender) 2x
-GFC
+G F C
 
 == PRE-REFRÃO ==
 

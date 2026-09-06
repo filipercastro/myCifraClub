@@ -33,7 +33,7 @@ D                 A        G
 Do que ter aquela velha opinião
          A       G
 Formada sobre tudo
-                   Bb5(9)
+                   Bb5( 9)
 Do que ter aquela velha opinião
                A
 Formada sobre tudo
@@ -68,7 +68,6 @@ Formada sobre tudo
 Do que ter aquela velha opinião
          A
 Formada sobre tudo
-
 
 == COLBREAK ==
 

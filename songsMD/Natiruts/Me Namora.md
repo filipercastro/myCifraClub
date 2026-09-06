@@ -2,7 +2,7 @@
 **Natiruts**
 
 ```
-G7C7G7C7
+G7 C7 G7 C7
 G7M                     C7M
     Lembro que te vi caminhar
                          G7M
@@ -82,7 +82,6 @@ Abra os olhos, veja quem te adora
 E sonha com você no mundo à fora
              C7M
 E volta só pra te dizer
-
 
 == COLBREAK ==
 

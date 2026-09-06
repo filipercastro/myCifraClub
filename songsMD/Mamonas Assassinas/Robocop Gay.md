@@ -94,7 +94,7 @@ Um robocop    gay
 Um robocop gay
                 A5
 Ai, eu sei, eu sei
-             F5C5
+             F5 C5
 Meu robocop gay
 Ai como dói!
 ```

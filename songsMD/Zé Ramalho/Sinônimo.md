@@ -2,10 +2,10 @@
 **Zé Ramalho**
 
 ```
-DAEmGA
+D A Em G A
 D                      A        Em   G A
   Quanto o tempo o coração leva pra saber
-D                    A       EmG A
+D                    A       Em G A
   Que o sinônimo de amar é sofrer
 D              A             Em      G A
   No aroma de amores pode haver  espinhos
@@ -30,16 +30,16 @@ Não sabe quem vai machucar
 Quem ama nunca sente medo
                       Em
 De contar os seus segredos
-   G         A     D A EmGA
+   G         A     D A Em G A
 Sinônimo de amor é amar
 
 == REPETE ==
 
 D                    A        Em   G A
   Quem revelará o mistério que tenha fé
-D                     A                      EmG A
+D                     A                      Em G A
   E quantos segredos traz o coração de uma mulher
-D                     A                    EmG A
+D                     A                    Em G A
   Como é triste a tristeza mendigando um sorriso
 D                      A                     EmG     /REPETE
   Um cego procurando a luz na imensidão do paraíso
@@ -52,7 +52,7 @@ Ninguém sabe dizer onde a felicidade está
 REFRÃO
  2x
 ([DAEmG A)    REFRÃO
-REPETE] -&gt;  2x
+REPETE] ->  2x
    G         A     D A Em   G         A     D G D
 Sinônimo de amor é amar        Sinônimo de amor é amar
 ```

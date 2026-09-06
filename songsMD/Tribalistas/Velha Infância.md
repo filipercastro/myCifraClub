@@ -2,7 +2,7 @@
 **Tribalistas**
 
 ```
-F#mBmEF#m
+F#m Bm E F#m
 F#m         Bm
    Você é assim   Um sonho pra mim
 E                    F#m

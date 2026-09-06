@@ -2,7 +2,7 @@
 **Jota Quest**
 
 ```
-GD/F#FC
+G D/F# F C
  G         D/F#
 Tudo é tão bom
     C               Bm
@@ -27,7 +27,7 @@ Em             Bm         C    C/D
 
 == REFRÃO ==
 
-(G                 D/F#
+( G                 D/F#
 Fácil, extremamente fácil
        F             C
 Pra você e eu e todo mundo
@@ -49,8 +49,8 @@ As mãos se procuram sós
               Am
 Como a gente mesmo quis
 PRE-REFRÃOREFRÃO
- -&gt;  2x
+ ->  2x
 ([GD/F#FC)4x      REFRÃO
-PRE-REFRÃO] -&gt;  2X
-GD/F#FC
+PRE-REFRÃO] ->  2X
+G D/F# F C
 ```

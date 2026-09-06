@@ -2,7 +2,7 @@
 **Skank**
 
 ```
-ADGA
+A D G A
 
 == REPETE 1 ==
 
@@ -37,7 +37,6 @@ Está rolando agora
                       A
 É uma partida de futebol
 
-
 == COLBREAK ==
 
 == REPETE 2 ==
@@ -49,7 +48,7 @@ O centroavante, o mais importante
            G                         A  /
 Que emocionante é uma partida de futebol
 4x ( A  D  E )
-ADGA
+A D G A
          A
 O meu goleiro é um homem de elástico
 Os dois zagueiros têm a chave do cadeado
@@ -58,7 +57,6 @@ Os laterais fecham a defesa
 Mas que beleza é uma partida de futebol
 
 == REPETE 1 ==
-
 
 == REPETE 2 ==
 

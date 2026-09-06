@@ -2,8 +2,8 @@
 **Falamansa**
 
 ```
-GBmCD
-GBmCD
+G Bm C D
+G Bm C D
     G
 Eu tenho um segredo menina
               Bm

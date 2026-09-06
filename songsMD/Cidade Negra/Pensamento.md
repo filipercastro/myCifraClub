@@ -2,7 +2,7 @@
 **Cidade Negra**
 
 ```
-GAmDGAmD
+G Am D G Am D
 
 == PRIMEIRA PARTE ==
 
@@ -26,9 +26,9 @@ Que nos leva a emoção
 Pensamento positivo
                 G
 Que faz bem ao coração
-       AmD       G
+       Am D       G
 O mal não    O mal não
-       AmD
+       Am D
 O mal não
  G
 Sempre que para você chegar
@@ -36,7 +36,7 @@ Sempre que para você chegar
 Terá que atravessar
                 G
 A fronteira do pensar
-                   AmD
+                   Am D
 A fronteira do pensar
 G
   E o pensamento é o fundamento
@@ -68,20 +68,19 @@ Acorda meu Brasil com o lado bom de pensar
 Detone o pesadelo pois o bom
 Ainda virá
 
-
 == COLBREAK ==
 
 == PRIMEIRA PARTE ==
 
-GAmDGAmD
-GAmDGAmD
+G Am D G Am D
+G Am D G Am D
  G
 Custe o tempo que custar
                 Am
 Que esse dia virá
 D                     G
   Nunca pense em desistir, não
-                       AmD
+                       Am D
 Te aconselho a prosseguir
 G
   O tempo voa rapaz
@@ -95,5 +94,5 @@ Recitem
 Poesias e palavras de um rei
 Am                D
   Faça por onde que eu te ajudarei) 4x
-FGAmDGAmD
+F G Am D G Am D
 ```

@@ -46,7 +46,7 @@ Sem final, sem final
  Am                    G
 Sem final, sem final, final
 REFRÃOPONTE  REFRÃO
--&gt;  -&gt;
+->  ->
 (  C
  Valeu a pena
     Am
@@ -54,6 +54,6 @@ REFRÃOPONTE  REFRÃO
            G
  Sou pescador de ilusões) 2X
 Sou pescador de ilusões
-   C        AmGCAmG
+   C        Am G C Am G
 Valeu a pena
 ```

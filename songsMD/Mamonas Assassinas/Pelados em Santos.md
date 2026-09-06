@@ -2,7 +2,7 @@
 **Mamonas Assassinas**
 
 ```
-DBmGA
+D Bm G A
  D
 Mina
                     Bm

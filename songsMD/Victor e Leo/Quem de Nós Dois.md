@@ -3,7 +3,7 @@
 
 ```
 C
-Am7DAm7D
+Am7 D Am7 D
 Am7     D
    Eu e você
                  G7M                         C7M
@@ -50,7 +50,6 @@ Meio na contramão
 E quando finjo que esqueço
                 C7M
 Eu não esqueci nada
-
 
 == COLBREAK ==
 

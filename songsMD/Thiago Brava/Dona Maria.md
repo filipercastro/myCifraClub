@@ -45,5 +45,5 @@ Essa menina é um desenho no céu
              G                    C G
 Que Deus pintou e jogou fora o pincel
 CP[GAmF              REFRÃO
-RIMEIRA PARTE] -&gt;  2x
+RIMEIRA PARTE] ->  2x
 ```

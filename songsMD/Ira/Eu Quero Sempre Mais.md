@@ -51,7 +51,7 @@ INTROPRIMEIRA PARTEREFRÃOINTROSEGUNDA PARTE
 Longe de mim
 G
   Longe de mim        2X
-G          C AmG
+G          C Am G
   Longe de mim        2X
           C
   Longe de mim

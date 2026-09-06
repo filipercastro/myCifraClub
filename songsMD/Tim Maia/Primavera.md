@@ -24,9 +24,9 @@ Te amo meu amor
 
 == Refrão ==
 
-            C#m7Bm7
+            C#m7 Bm7
 Trago esta rosa  para te dar
-            C#m7Bm7
+            C#m7 Bm7
 Trago esta rosa  para te dar
             C#m7Bm7   E7(4/9)
 Trago esta rosa  para te dar

@@ -2,7 +2,7 @@
 **Cidade Negra**
 
 ```
-GDCAm
+G D C Am
 G           D
   Amor igual   ao teu
     C              Am
@@ -44,7 +44,7 @@ D9(11)/A
    Cê vai chegar em casa
 Eu quero abrir a porta
 Aonde você mora
-                  C BmAm
+                  C Bm Am
 Aonde você foi morar
        G
 Aonde foi
@@ -52,7 +52,7 @@ D9(11)/A
    Não quero estar de fora
 Aonde esta você
 Eu tive que ir embora
-                  C BmAm
+                  C Bm Am
 Mesmo querendo ficar
           G
 Agora eu sei

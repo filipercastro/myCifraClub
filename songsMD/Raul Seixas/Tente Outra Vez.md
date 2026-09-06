@@ -2,12 +2,12 @@
 **Raul Seixas**
 
 ```
-EE7
+E E7
  A     C                              G
 Veja   Não diga que a canção   Está perdida
 D                                A
   Tenha fé em Deus   Tenha fé na vida
- C   G  Am G  BmE
+ C   G  Am G  Bm E
 Tente outra   vez
  A          C
 Beba, beba     Pois a água viva
@@ -15,7 +15,7 @@ Beba, beba     Pois a água viva
 Ainda ta na fonte, tente outra vez
                                    A
 Você tem dois pés   Para cruzar a ponte
- C  G AmG                G7
+ C  G Am G                G7
 Nada a_ca__bou, não, não, não
  C
 Tente   Levante sua mão sedenta
@@ -29,7 +29,7 @@ D                C
 Há uma voz que dança
              F
 Uma voz que gira, gira
-            G DE7
+            G D E7
 Bailando no ar
   A             C
 Queira, queira     Basta ser sincero

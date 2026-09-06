@@ -2,8 +2,8 @@
 **João Mineiro e Marciano**
 
 ```
-CDmGCG
-CC7FCGC
+C Dm G C G
+C C7 F C G C
  C              Am
 Você me pede na carta
               Dm
@@ -55,5 +55,5 @@ Que amar na mentira
 
 == REFRÃO ==
 
-FCGCGC
+F C G C G C
 ```

@@ -44,6 +44,8 @@ Um vinho, um pão e uma reza
      Am
 Uma lua e um sol, sua vida, portas abertas
 
+== COLBREAK ==
+
 == REFRÃO ==
 
           F           Dm
@@ -80,7 +82,7 @@ Ninguém mais vai te ver
 
 == REFRÃO ==
 
-FDmAm
+F Dm Am
 
 == REFRÃO ==
 

@@ -2,7 +2,7 @@
 **Charlie Brown Jr**
 
 ```
-EC#mA
+E C#m A
 
 == PRIMEIRA PARTE ==
 
@@ -42,7 +42,6 @@ O impossível é só questão de opinião
 
 == REFRÃO ==
 
-
 == COLBREAK ==
 
             C#m   A  E
@@ -53,7 +52,7 @@ Só os loucos sabem
 Disso os loucos sabem
        F#m        A
 Só os loucos sabem
-EC#mA
+E C#m A
 
 == Segunda Parte ==
 
@@ -78,9 +77,9 @@ Quero te ver outra vez
 Quero te ver outra vez
    F#m           A
 Você deixou sau___dade
-EC#mA
+E C#m A
 
 == PRIMEIRA PARTE ==
 
-EC#mAE
+E C#m A E
 ```

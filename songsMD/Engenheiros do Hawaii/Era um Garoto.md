@@ -28,11 +28,11 @@ Da sua guitarra o separou
   Fora chamado na América
   E  G  A  Bb B
 Stop com Rolling Stones
-  E  G  A  BbB
+  E  G  A  Bb B
 Stop com Beatles songs
-    A   G#m  F#mE
+    A   G#m  F#m E
 Mandado foi ao Viet__nã
-   A  G# ABbB
+   A  G# A Bb B
 lutar com vi__etcongs
 E                      A
  Tata-ratata, tata-ratata
@@ -71,11 +71,11 @@ F#                  B
  Pois está morto no Vietnã
   E  G  A  Bb B
 Stop com Rolling Stones
-  E  G  A  BbB
+  E  G  A  Bb B
 Stop com Beatles songs
-    A       G#mF#mE
+    A       G#m F#m E
 No peito um coração não há
-     A   G#AA# B
+     A   G# A A# B
 Mas duas me_dalhas, sim
 E                      A
  Tata-ratata, tata-ratata

@@ -2,7 +2,7 @@
 **Zé Ramalho**
 
 ```
-GDEmCDGCG
+G D Em C D G C G
       G
 Eu desço dessa solidão
    D                            Em
@@ -29,7 +29,7 @@ Am                     Bm            Am  D
    Mas não vão gozar de nós apenas um cigarro
 Am                  Bm                       Am
    Nem vou lhe beijar    gastando assim o meu batom
-DGDEmCD
+D G D Em C D
   G                       D                       Em
 Agora pego um caminhão na lona vou a nocaute outra vez
 C                       D                G  Em
@@ -40,15 +40,15 @@ C                     D    G
 &quot;That's over, baby&quot; , Freud explica
 Am                Bm                    Am  D
    Não vou me sujar    fumando apenas um cigarro
-Am                  Bm                       AmD
+Am                  Bm                       Am D
    Nem vou lhe beijar    gastando assim o meu batom
-Am                      Bm                     AmD
+Am                      Bm                     Am D
    Quanto ao pano dos confetes já passou meu carnaval
-Am                        Bm               AmD
+Am                        Bm               Am D
    E isso explica porque o sexo é assunto popular
 Am                     Bm
    No mais estou indo embora 3X
 Am        D
    No mais
-GDEmCDG
+G D Em C D G
 ```

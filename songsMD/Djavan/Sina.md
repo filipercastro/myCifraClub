@@ -2,7 +2,7 @@
 **Djavan**
 
 ```
-AD/AAD/A
+A D/A A D/A
 A          D/A
   Pai e mãe,    ouro de mina
 A         E/G#
@@ -45,5 +45,5 @@ C#m7             D7M
 O sonho até gerar o som
                 E4(7/9)
 Como querer caetanear o que há de bom
-AD/AAD/AA
+A D/A A D/A A
 ```

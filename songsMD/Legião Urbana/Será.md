@@ -2,7 +2,7 @@
 **Legião Urbana**
 
 ```
-CGAmF
+C G Am F
 C           G      Am
   Tire suas mãos de mim
            F        C
@@ -47,6 +47,6 @@ Brigar pra quê, se é sem querer
 Quem é que vai nos proteger
    C                   G
 Será que vamos ter que responder
-         Bb        Dm    G F GFGF
+         Bb        Dm    G F G F G F
 Pelos erros a mais   Eu e você
 ```

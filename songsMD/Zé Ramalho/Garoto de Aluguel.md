@@ -2,7 +2,7 @@
 **Zé Ramalho**
 
 ```
-EmBmAmB7
+Em Bm Am B7
  Em
 Baby
                                    Bm
@@ -46,8 +46,8 @@ Conte pras amigas que tudo foi mal
                              Em
 Nada me preocupa de um marginal
 PONTE  SEGUNDA PARTEPONTE
- -&gt;  -&gt;
-(Em               Bm
+ ->  ->
+( Em               Bm
  Baby, baby, baby   Baby, baby, baby
  Am                       B7
  Oh, oh, oh, oh, oh, oh, oh    ) 2x

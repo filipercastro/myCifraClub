@@ -48,5 +48,5 @@ Dm                    G
 
 == REFRÃO ==
 
-CE7FG
+C E7 F G
 ```

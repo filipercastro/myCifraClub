@@ -2,7 +2,7 @@
 **César Menotti &amp; Fabiano**
 
 ```
-DGABmGA
+D G A Bm G A
            D            G         A
 Ah! Como quero te encontrar novamente
          D         G      A
@@ -33,5 +33,5 @@ O meu coração se nega a aceitar
 Passa o tempo eu não esqueço de te amar
          Em            A7        D
 Passa o tempo eu não esqueço de te amar
-DGABmGA
+D G A Bm G A
 ```

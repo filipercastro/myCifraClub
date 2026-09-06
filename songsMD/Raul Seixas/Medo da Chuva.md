@@ -2,7 +2,7 @@
 **Raul Seixas**
 
 ```
-A7D                                        A7
+A7 D                                        A7
     É pena que você pense que eu sou seu escravo
                                               D
 Dizendo que eu sou seu marido e não posso partir

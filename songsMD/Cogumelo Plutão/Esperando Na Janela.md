@@ -2,12 +2,12 @@
 **Cogumelo Plutão**
 
 ```
-EmDGA7
+Em D G A7
        D     G   A7    D
 Quando me perdi, você apareceu
      Bm    G    A7      D
 Me fazendo rir, do que aconteceu
-     F#mBm G            D
+     F#m Bm G            D
 E de medo olhei tudo ao meu redor
     F#m    Bm      G     A7  D
 Só assim enxerguei que agora estou melhor
@@ -20,7 +20,7 @@ Você é a escada na minha subida
 Você é o amor da minha vida
                  F#m        Bm
 É o meu abrir de olhos o amanhecer
-Bm/A       G   A7D
+Bm/A       G   A7 D
 Verdade que me leva a viver
            G   A7  D
 Você é a espera na janela
@@ -41,7 +41,6 @@ E agora sou feliz, pois lhe tenho bem aqui
 
 == REFRÃO ==
 
-
 == PONTE ==
 
 D             G A7            Em
@@ -50,7 +49,6 @@ D             G
   Do que é o amor
 
 == REFRÃO ==
-
 
 == PONTE ==
 ```

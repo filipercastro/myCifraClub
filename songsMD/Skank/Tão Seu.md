@@ -30,9 +30,9 @@ Feliz agora e não além
 
 == REFRÃO ==
 
-(F#          C#5(9)  D#m      B5(9)
+( F#          C#5( 9)  D#m      B5( 9)
     Me sinto só,  me sinto só,  me sinto tão seu
- F#           C#5(9)D#m   B5(9)
+ F#           C#5( 9) D#m   B5( 9)
     Me sinto tão, me sinto só e sou teu )     2x
 
 == INTRO ==

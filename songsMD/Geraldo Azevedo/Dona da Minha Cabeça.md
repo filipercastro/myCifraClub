@@ -4,10 +4,10 @@
 ```
 Intro
  3x Bm G  D F#m  A
-BmG
+Bm G
 D               F#7             Bm
 Dona da minha cabeça ela vem como um carnaval
-   G            D              F#7    BmG
+   G            D              F#7    Bm G
 E toda paixão recomeça ela é bonita, é demais
 D                 F#7        Bm
 Não há um porto seguro futuro também não há
@@ -15,7 +15,7 @@ G                  D               F#7 Bm
 Mas faz tanta diferença quando ela dança, dança
     G                 D          F#7 Bm
 Eu digo e ela não acredita ela é bonita demais
-    G                 D          F#7   BmG
+    G                 D          F#7   Bm G
 Eu digo e ela não acredita ela é bonita, é bonita
 D               F#7             Bm
 Dona da minha cabeça quero tanto lhe ver chegar
@@ -41,7 +41,7 @@ Na força dessa beleza é que eu sinto firmeza e paz
 Por isso nunca desapareça
             F#7       Bm
 Nunca me esqueça, que eu não te esqueço jamais
-G                 D          F#7Bm
+G                 D          F#7 Bm
 Eu digo e ela não acredita ela é bonita demais
     G                 D          F#7    Bm
 Eu digo e ela não acredita ela é bonita, é bonita

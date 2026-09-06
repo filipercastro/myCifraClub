@@ -2,7 +2,7 @@
 **Nando Reis**
 
 ```
-CGDmFCGDmF
+C G Dm F C G Dm F
             C
 Desculpe estou um pouco atrasado
        G
@@ -19,9 +19,9 @@ Coisas que pareceriam óbvias até pra uma criança
 Por onde andei
             G
 Enquanto você me procurava
-   Bb5(9)           F
+   Bb5( 9)           F
 Será que eu sei que você mesmo é tudo
-                  C   GDmF
+                  C   G Dm F
 Aquilo que me faltava?
          C
 Amor eu sinto a sua falta
@@ -41,12 +41,12 @@ Diante da eternidade do amor, de quem se ama
 Por onde andei
             G
 Enquanto você me procurava
-      Bb5(9)            F
+      Bb5( 9)            F
 E o que eu te dei, foi muito pouco ou quase nada
     C                    G
 E que eu deixei, algumas roupas penduradas
-   Bb5(9)           F
+   Bb5( 9)           F
 Será que eu sei que você mesmo é tudo
-                  C  GDmF
+                  C  G Dm F
 Aquilo que me faltava
 ```

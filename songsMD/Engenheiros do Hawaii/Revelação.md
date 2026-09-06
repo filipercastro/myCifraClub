@@ -2,7 +2,7 @@
 **Engenheiros do Hawaii**
 
 ```
-AmAm/GAm/FE7
+Am Am/G Am/F E7
 Am
  um dia vestido
 Am/G          F7+
@@ -13,7 +13,7 @@ Am
  casas mal vividas
 Am/G          F7+
  camas repartidas
-G           E7F#mG#mE
+G           E7 F#m G#m E
  faz se revelar
 (refrão)
 A                A7M

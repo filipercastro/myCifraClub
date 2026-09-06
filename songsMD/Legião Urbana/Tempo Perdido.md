@@ -2,7 +2,7 @@
 **Legião Urbana**
 
 ```
-CAm7BmEm
+C Am7 Bm Em
            C               Am7
  Todos os dias quando acordo
 Bm                Em

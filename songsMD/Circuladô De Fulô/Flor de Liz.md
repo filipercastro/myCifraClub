@@ -30,7 +30,7 @@ Saber que mais forte que a dor
 É o amor que bate por ti
    Cm7            G
 Amor do tão bom beija-flor
-G     BmC  Cm7
+G     Bm C  Cm7
    Tchôrôôôô tchorô ôôô
 ( G  Bm  C  Cm7 ) 3x
 

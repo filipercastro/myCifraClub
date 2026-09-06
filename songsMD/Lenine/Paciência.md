@@ -42,7 +42,7 @@ Em
 Até quando o corpo pede um pouco mais de alma
 C    Am              Em  C
 Eu sei,    a vida é não para
-            G      GEmC
+            G      G Em C
 A vida não para não
               G
 A vida é tão rara

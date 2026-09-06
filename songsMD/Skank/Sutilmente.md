@@ -10,7 +10,7 @@ G                                         D
  Quando eu estiver louco, subitamente se afaste
 C                                       G    D
  Quando eu estiver fogo suavemente se encaixe
-GD
+G D
 
 == REPETE ==
 
@@ -22,7 +22,7 @@ C                                            Em
 E quando eu estiver bobo sutilmente disfarce, é
                                                 C
 Mas quando eu estiver morto suplico que não me mate não
-           AmC           Am
+           Am C           Am
 Dentro de ti     Dentro de ti
 
 == REFRÃO ==
@@ -35,11 +35,11 @@ Dentro de tudo que cabe em ti
 Mesmo que o mundo  acabe  enfim
  G        C       Am      D
 Dentro de tudo que cabe em ti
-GD
+G D
 
 == REPETE ==
 
 REFRÃO
  2x
-GCAmD
+G C Am D
 ```

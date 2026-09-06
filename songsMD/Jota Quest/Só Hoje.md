@@ -52,6 +52,6 @@ Hoje só tua presença vai me deixar feliz, só hoje
 Hoje preciso de você com qualquer humor
                  G  C
 Com qualquer sorriso
- G             Am                  D             CmG
+ G             Am                  D             Cm G
 Hoje só tua presença vai me deixar feliz, feliz  Só hoje
 ```

@@ -8,7 +8,7 @@ O meu cabelo já começa pratiando
 Mas a sanfona ainda não desafinou
           G                      A7
 A minha voz vocês reparem eu cantando
-                      C          D7      Em   (A7EmA7Em)2x
+                      C          D7      Em   ( A7 Em A7 Em) 2x
 Que é a mesma voz de quando meu reinado começou
 Em       A7                 Em
 Modéstia à parte é que eu não desafino
@@ -20,7 +20,7 @@ Em Exu no meu sertão
 Cantava solto que nem cigarra vadia
                          C
 E é por isso que hoje em dia
-      D            Em   (A7EmA7Em)2x
+      D            Em   ( A7 Em A7 Em) 2x
 Ainda sou o rei do baião
          A7            Em
 Eu agradeço ao povo brasileiro
@@ -32,7 +32,7 @@ Onde reinou o baião
 Se eu mereci minha coroa de rei
                    C
 Esta sempre eu honrei
-         D       Em  (A7EmA7Em)2x
+         D       Em  ( A7 Em A7 Em) 2x
 Foi a minha obrigação
          A7                   Em
 Minha sanfona minha voz o meu baião
@@ -48,6 +48,6 @@ De Luiz rei do baião
 Vou juntar tudo dar de presente ao museu
               C
 É a hora do Adeus
-     D         Em   (A7EmA7Em)2x
+     D         Em   ( A7 Em A7 Em) 2x
 De Luiz rei do baião
 ```

@@ -2,16 +2,16 @@
 **Los Hermanos**
 
 ```
-EC#m
+E C#m
   E            C#m        G#m
 Quem te ver passar assim por mim
      A        B    E
 Não sabe o que é sofrer
-         C#m     G#mA        B
+         C#m     G#m A        B
 Ter que ver você assim, sempre tão linda
  E           C#m       G#m A    B   E
 Contemplar o sol do teu olhar perder você no ar
-       C#m      G#mAB
+       C#m      G#m A B
 Na certeza de um amor
              C#m
 Me achar um nada
@@ -39,7 +39,7 @@ Um alguém sem carinho será sempre um espinho
 Dentro do meu coração
 REFRÃO
  2x
-EABC#mG#mAEC#mG#mAB
+E A B C#m G#m A E C#m G#m A B
  C#m    G#m     A         E
 Sei que você já não quer o meu amor
  C#m    G#m    A       E

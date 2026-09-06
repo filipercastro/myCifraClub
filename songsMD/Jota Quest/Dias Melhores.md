@@ -39,7 +39,7 @@ Oh, oh, oh
 Dias melhores pra sempre
  G      C9
 Dias melhores
-     G    EmGD
+     G    Em G D
 Pra sempre
 PRIMEIRA PARTE
 PRE REFRÃO
@@ -48,7 +48,7 @@ REFRÃO FINAL
 Dias melhores pra sempre     3X
  G      C9
 Dias melhores
-     G    EmGEm
+     G    Em G Em
 Pra sempre
      G
 Pra sempre

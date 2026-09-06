@@ -11,7 +11,7 @@ Estou no meu lugar
 Você já sabe onde é
 D Bm G          A           D
        Não conte o tempo por nós   dois
- BmG          A           D     Bm
+ Bm G          A           D     Bm
 Pois a qualquer hora Posso estar de volta
  G           A
 Depois que a noite terminar
@@ -20,7 +20,7 @@ Vou deixar A vida me levar
                  D F#         G     Gm
 Pra onde ela quiser    Seguir a direção
 De uma estrela qualquer
-D BmG        A       D      Bm
+D Bm G        A       D      Bm
       Não quero hora pra voltar, não
  G      A        D      Bm
 Conheço bem a solidão, me solta
@@ -35,7 +35,7 @@ Sozinho não enxergo nada
 
 Em          F#m
    Mas vou ficar aqui
-  G               F#mEm
+  G               F#m Em
 Até que o dia amanheça
           F#m
 Vou esquecer de mim
@@ -51,7 +51,7 @@ Na madrugada sem fim
          G        Gm
 Deixar o sol te ver
 Ajoelhada por mim, sim
-D BmG        A       D      Bm
+D Bm G        A       D      Bm
       Não tenho hora pra voltar, não
 G      A           D    Bm
 Eu agradeço tanto a sua escolta

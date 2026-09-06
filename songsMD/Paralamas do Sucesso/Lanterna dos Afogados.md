@@ -2,8 +2,8 @@
 **Paralamas do Sucesso**
 
 ```
-CDBmEm
-CDBmEm
+C D Bm Em
+C D Bm Em
              C               D
 Quando tá escuro e ninguém te ouve
                 Bm         Em

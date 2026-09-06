@@ -2,8 +2,8 @@
 **Cidade Negra**
 
 ```
-EF#mG#mF#m
-EF#mG#mB
+E F#m G#m F#m
+E F#m G#m B
 
 == INTRO ==
 
@@ -19,7 +19,7 @@ Que espera o bloco passar
 Ninguém fica na solidão
    B             E
 Embarca com suas dores
-     F#m         G#mF#m
+     F#m         G#m F#m
 Prá longe do seu lugar
 E     F#m       G#m
   A favor da comunidade
@@ -29,7 +29,7 @@ Que espera o bloco passar
 Ninguém fica na solidão
     B            E
 O Bloco vai te levar
-         F#m      G#mB
+         F#m      G#m B
 Ninguém fica na solidão
 
 == REPETE ==
@@ -61,7 +61,6 @@ Como um girassol
    G        D   /REPETE
 Amarelo! amarelo
 
-
 == COLBREAK ==
 
 == INTRO ==
@@ -78,7 +77,7 @@ Vai encantar a avenida
 E todo o povo vai sorrir
     F#m  E
 Sorrir, sorrir
-          F#m      G#mB
+          F#m      G#m B
 E todo o povo vai sorrir
 Repete a Segunda Parte:
 

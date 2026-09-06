@@ -2,7 +2,7 @@
 **Kid Abelha**
 
 ```
-C9D9Em
+C9 D9 Em
 Em
 Eu perco o sono e choro   Sei que quase desespero
          C9

@@ -2,8 +2,8 @@
 **Victor e Leo**
 
 ```
-BmA
-ABmGA
+Bm A
+A Bm G A
     Bm                    D
 Percebo que o tempo já não passa
                        A    Bm
@@ -34,7 +34,7 @@ Borboletas sempre voltam
 E o seu jardim sou eu
 [Solo[BmDAF#GABm
 ]Repete do começo]
-           G          D A/C#Bm
+           G          D A/C# Bm
 Não sei dizer o que mudou
      A          Bm
 Mas nada está igual

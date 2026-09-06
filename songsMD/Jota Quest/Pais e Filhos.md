@@ -10,9 +10,9 @@ Estátuas e cofres e paredes pintadas
 Ninguém sabe o que aconteceu
 C        D       G
 Ela se jogou da janela do quinto andar
- C     D            G  CD
+ C     D            G  C D
 Nada é fácil de entender
- F     EmCBm  Am
+ F     Em C Bm  Am
 Dorme agora  Uhhhum
                  D
 É só o vento lá fora
@@ -24,7 +24,7 @@ Posso dormir aqui Com vocês
 Estou com medo Tive um pesadelo
     C        D
 Só vou voltar
-          G    GCD
+          G    G C D
 Depois das três
  F  Em         C
 Meu filho vai ter
@@ -45,7 +45,7 @@ Como se não houvesse amanhã
 Por que se você parar
            Em              C
 Pra pensar,  na verdade não há
-C   DG               C     D G
+C   D G               C     D G
  Me diz  por que que o céu é azul
                  C     D       G
 Explica a grande  fúria  do mundo
@@ -69,9 +69,8 @@ Já morei em tanta casa
 Que nem me lembro mais
 C       D          F  Em
 Eu moro com os meus pais
- C  BmAmD
+ C  Bm Am D
 Huhuhuhu!...ouh! ouh!
-
 
 == COLBREAK ==
 
@@ -95,6 +94,6 @@ Isso é absurdo
 São crianças como você
          C      D
 O que você vai ser
-          G         CDG
+          G         C D G
 Quando você crescer?
 ```

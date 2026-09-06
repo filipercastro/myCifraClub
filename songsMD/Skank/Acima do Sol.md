@@ -2,7 +2,7 @@
 **Skank**
 
 ```
-Am7GAm7G
+Am7 G Am7 G
   Am7       G
 Uuuh, uuuuh, uuuh 2x
 Am7

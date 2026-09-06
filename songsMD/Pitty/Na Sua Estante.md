@@ -61,7 +61,6 @@ A
 Tô aproveitando cada segundo
 Antes que isso aqui vire uma tragédia
 
-
 == COLBREAK ==
 
 == REFRÃO ==

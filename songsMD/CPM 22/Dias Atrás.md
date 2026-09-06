@@ -3,14 +3,14 @@
 
 ```
 Introdução: C G F G (2x)
-FAmFAm
+F Am F Am
 F    Am   F            Am
 Nunca mais espero te encontrar
      F  Am      F          Am
 Por tudo    Que você me fez passar
 F         Am         F
    Tantos dias sem entender
-      Am      F Am                G2x
+      Am      F Am                G2 x
 Esperando por você    Que não vai voltar
 
 == REFRÃO ==
@@ -25,10 +25,10 @@ Olho pra trás
 Mas penso e sigo em frente
      G
 Pra nunca mais Viver assim
-FAmFAm
+F Am F Am
 F    Am F           Am
 Tanto faz  O que vai rolar
-     FAm   F         Am
+     F Am   F         Am
 Mas nunca  Espero voltar lá
 F      Am          F
 Sempre tento me esconder
@@ -38,10 +38,10 @@ Am               G
    Acho que é melhor
 REFRÃO
  2x
-         G2x
+         G2 x
 Viver assim...
-         F2x
+         F2 x
 Viver assim...
-     G2x             C
+     G2 x             C
 Pra nunca mais Viver assim
 ```

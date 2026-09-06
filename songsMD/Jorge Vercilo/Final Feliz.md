@@ -2,7 +2,7 @@
 **Jorge Vercilo**
 
 ```
-DBmEmGm
+D Bm Em Gm
   D
 Chega de fingir
  Bm
@@ -33,5 +33,5 @@ Oh, meu bem,
 Acredite no final feliz
     Em       Gm
 Meu amor, meu amor
-BmEmGmD
+Bm Em Gm D
 ```

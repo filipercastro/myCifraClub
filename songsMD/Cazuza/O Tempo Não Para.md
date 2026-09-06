@@ -19,7 +19,7 @@ Ou beijo de namorada
                 Em7
 Eu sou mais um cara
 Mas se você achar que eu tô derrotado
-Am7                                D
+Am7                                   D
   Saiba que ainda estão rolando os dados
                          Em7
 Porque o tempo, o tempo não para
@@ -28,36 +28,32 @@ Porque o tempo, o tempo não para
 
  Em7
 Dias sim, dias não
-    Am7                         D
+    Am7                            D
 Eu vou sobrevivendo sem um arranhão
                           Em7
 Da caridade de quem me detesta
 
+== COLBREAK ==
+
 == REFRÃO ==
 
-G                               Am7
+G                                Am7
   A tua piscina está cheia de ratos
-                                  D   D#º
+                                  D    D#º
 Suas idéias não correspondem aos fatos
              C
 O tempo não para
-G                                Am7
+G                                 Am7
   Eu vejo um futuro repetir o passado
-                                 D   D#º
+                                 D    D#º
 Eu vejo um museu de grandes novidades
-             C        D      D#º    Em7
+             C         D        D#º       Em7
 O tempo não para, não para não, não pára
-
-
-== COLBREAK ==
-
-== Segunda Parte ==
-
 Em7
 Eu não tenho data pra comemorar
     Am7
 As vezes os meus dias são de par em par
-D                          Em7
+D                           Em7
   Procurando agulhas no palheiro
     Em7
 Nas noites de frio é melhor nem nascer
@@ -73,6 +69,10 @@ Am7                               D
   Transformam um país inteiro num puteiro
                              Em7
 Pois assim se ganha mais dinheiro
+
+== REFRÃO ==
+
+== PRE REFRÃO ==
 
 == REFRÃO ==
 ```

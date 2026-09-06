@@ -2,7 +2,7 @@
 **Ivan Lourenço**
 
 ```
-AmGAmGAm
+Am G Am G Am
       Am         G                 Am
 Caminhando e cantando e seguindo a canção
                G                   Am

@@ -2,7 +2,7 @@
 **Engenheiros do Hawaii**
 
 ```
-GD4/F#C
+G D4/F# C
 G               D4/F#            C
 Todo mundo tá revendo o que nunca foi visto
 G                 D4/F#       C
@@ -81,6 +81,6 @@ O papa levou um tiro à queima roupa
  C
 O pop não poupa
 O pop não poupa
-(Em)
+( Em)
 Ninguém
 ```

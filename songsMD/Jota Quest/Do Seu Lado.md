@@ -2,7 +2,7 @@
 **Jota Quest**
 
 ```
-DmF7CGDmF7
+Dm F7 C G Dm F7
  C
 Diz pra eu ficar muda
      G
@@ -46,7 +46,6 @@ G
 Cada um por si
           F7M
 Você por mim e mais nada
-
 
 == COLBREAK ==
 

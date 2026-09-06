@@ -3,7 +3,7 @@
 
 ```
 C
-GEmGEm
+G Em G Em
  G            Em G            Em
 Fada, fada querida, dona da minha vida
    D                     Em  D
@@ -40,7 +40,7 @@ G                      Em
 O meu sentimento é bem mais que uma emoção
 C                     D         C   D  G
 Eu espero o tempo que for, minha fada do amor
-GEmGEmCDCDGD
+G Em G Em C D C D G D
 
 == PRE-REFRÃO ==
 

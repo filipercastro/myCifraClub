@@ -2,53 +2,56 @@
 **Capital Inicial**
 
 ```
-Intro
- Bm  G   D  A 4x
-PRIMEIRA PARTE
-Bm      G D
+ Bm  G   D  A    4x
+
+== PRIMEIRA PARTE ==
+
+Bm        G  D
 Ela dormiu
-      A            Bm G DA
+      A             Bm  G  D  A
 No calor dos meus braços
-  Bm        G        D
+  Bm          G        D
 E eu acordei sem saber
-   A      BmG  DA
+   A       Bm   G  D  A
 Se era um sonho
-   Bm          G D
+   Bm            G  D
 Algum tempo atrás
-    A          BmGDA
+    A           Bm  G  D  A
 Pensei em te dizer
-        Bm     G
+        Bm       G
 Que eu nunca caí
-     D       A         BmG DA
+     D        A          Bm  G  D  A
 Nas suas armadilhas de amor
 
 == REFRÃO ==
 
- Bm        GD
+ Bm         G  D
 Naquele amor
-   A    Bm G DA
+   A     Bm  G  D  A
 À sua maneira
-    Bm             GD
+    Bm              G  D
 Perdendo o meu tempo
-   A      Bm G DA
+   A       Bm  G  D  A
 A noite inteira
-BmGDA
- Bm        GD
+Bm G D A
+ Bm         G  D
 Não mandarei
- A        Bm G DA
+ A         Bm  G  D  A
 Cinzas de rosas
-     Bm           GD
+     Bm            G  D
 Nem penso em contar
-    A        Bm G DA
+    A         Bm  G  D  A
 Os nossos segredos
 
 == REFRÃO ==
 
-BmP[GDA4x
-RIMEIRA PARTE]
-REFRÃO
- 2X
-    A      Bm G  D
+Bm G D A   4x
+
+== PRIMEIRA PARTE ==
+
+== REFRÃO 2x ==
+
+    A       Bm  G  D
 (A noite inteira      ) 4x
-FBmGDA
+Bm G D A   4x
 ```

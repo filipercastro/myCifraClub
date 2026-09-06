@@ -60,7 +60,6 @@ Ver você dormindo é tão lindo
 É tudo que eu quero pra mim
 Tudo que eu quero pra mim
 
-
 == COLBREAK ==
 
 == PRIMEIRA PARTE ==

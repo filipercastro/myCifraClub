@@ -2,7 +2,7 @@
 **Rappa**
 
 ```
-BmAGA
+Bm A G A
 
 == REFRÃO ==
 
@@ -48,5 +48,5 @@ Em             F#m
     Bm       F#m     Em      F#m             /TERCEIRA PARTE
 E o avião, e o avião, o avião do trabalhador
 REFRÃO SEGUNDA PARTETERCEIRA PARTEREFRÃO
- -&gt;  -&gt;  -&gt;
+ ->  ->  ->
 ```

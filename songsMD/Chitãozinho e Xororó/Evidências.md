@@ -4,10 +4,10 @@
 ```
 [IntroDGEmA
 ]        D  G  F#m  Em
-ADG
+A D G
            D                   A
 Quando eu digo que deixei de te amar
-       Bm        D7(9)D6
+       Bm        D7( 9) D6
 É porque eu te amo
           G
 Quando eu digo que não quero
@@ -22,14 +22,14 @@ Em tuas mãos
          E
 Mas não posso imaginar
 O que vai ser de mim
-             A        GA
+             A        G A
 Se eu te perder um dia
 
 == SEGUNDA PARTE ==
 
          D
 Eu me afasto e me defendo
-    A       Bm            D7(9)D6
+    A       Bm            D7( 9) D6
 De você Mas depois me entrego
       G
 Faço tipo, falo coisas que
@@ -94,13 +94,11 @@ Saudade
 Que ainda você quer viver
      G
 Pra mim
-Bm7D/AEmF#Bm7A
-
+Bm7 D/A Em F# Bm7 A
 
 == COLBREAK ==
 
 == SEGUNDA PARTE ==
-
 
 == REFRÃO ==
 ```

@@ -18,7 +18,7 @@ INTRO
     I saw you saying that you say that you saw (I feel good)
   Bm          D
     I feel good because you put your butt on me
-  Bm          D                               (AF#m)
+  Bm          D                               ( A F#m)
     I feel good because you put your butt on me
  C#m                     D
     Perguntei para o meu pai
@@ -30,7 +30,7 @@ INTRO
     I saw you saying that you say that you saw (I feel good)
    Bm          D
   (  I feel good because you put your butt on me ) 3x
-F#mAF#mAF#mBmDE
+F#m A F#m A F#m Bm D E
    A             F#m                A
     The hula hula song make me feel so strong
                   F#m                 A
@@ -45,6 +45,6 @@ D                                Bm
     You know you put your butt on me (a há)
 D
     You know you put your butt on me
-              A   F#mD  E   A    A6
+              A   F#m D  E   A    A6
     Shalalala yeah yeah yeah yeah yeah
 ```

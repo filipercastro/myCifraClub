@@ -2,7 +2,8 @@
 **Alceu Valença**
 
 ```
-PRIMEIRA PARTE
+== PRIMEIRA PARTE ==
+
  G
 (  Na bruma leve das paixões
             Am
@@ -27,9 +28,11 @@ F         C             G
   Eu já escuto os teus sinais
              Em
 Tu vens, tu vens
-F         C             G     /REFRÃO
+F         C             G
   Eu já escuto os teus sinais
-SEGUNDA PARTE
+
+== SEGUNDA PARTE ==
+
                                   Am
 A voz do anjo sussurrou no meu ouvido
                     C
@@ -42,9 +45,4 @@ Que tu virias numa manhã de domingo
 Eu te anuncio nos sinos das catedrais
 
 == REFRÃO ==
-
-([AmCGAmC G)    REFRÃO
-PRIMEIRA PARTE]
-SEGUNDA PARTEREFRÃO
-AmCGAmCG
 ```

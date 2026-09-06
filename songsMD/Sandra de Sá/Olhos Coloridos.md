@@ -2,7 +2,7 @@
 **Sandra de Sá**
 
 ```
-F#m7C#m7Bm7F#m7B7
+F#m7 C#m7 Bm7 F#m7 B7
 F#m7
 Os meus olhos coloridos
                C#m7
@@ -34,8 +34,8 @@ Tem cabelo duro
 Sarará crioulo
         Bm7          F#m7
 Sarará crioulo, sarará crioulo
-F#m7C#m7Bm7F#m7
-F#m7C#m7Bm7F#m7
-F#m7C#m7Bm7F#m7
-F#m7C#m7Bm7F#m7
+F#m7 C#m7 Bm7 F#m7
+F#m7 C#m7 Bm7 F#m7
+F#m7 C#m7 Bm7 F#m7
+F#m7 C#m7 Bm7 F#m7
 ```

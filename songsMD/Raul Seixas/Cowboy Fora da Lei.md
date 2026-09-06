@@ -2,7 +2,7 @@
 **Raul Seixas**
 
 ```
-CDGEm
+C D G Em
 PRIMEIR[CDG
 A PARTE]
    G
@@ -32,7 +32,7 @@ Morrer dependurado numa cruz
 
 == REFRÃO ==
 
- G  G/AG/BC
+ G  G/A G/B C
 Eu  não  sou  besta
        D            G
 Pra tirar onda de herói
@@ -40,7 +40,7 @@ Pra tirar onda de herói
 Sou vacinado, eu sou cowboy
     D          G
 Cowboy fora da lei
-G   G/AG/BC
+G   G/A G/B C
 O Duran__go   Kid
      D         G
 Só existe no gibi

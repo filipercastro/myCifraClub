@@ -52,11 +52,9 @@ C     G      D              C  G
              D
 Vem morar comigo
 
-
 == COLBREAK ==
 
 == Solo ==
-
 
 == REFRÃO ==
 
@@ -69,7 +67,6 @@ Vem morar comigo
 
 == SEGUNDA PARTE ==
 
-
 == REFRÃO ==
 
              D
@@ -82,5 +79,5 @@ Vem morar comigo
 Doce meiga senhorita
              D
 Vem morar comigo
-FCGD
+F C G D
 ```
