@@ -144,91 +144,82 @@ const COL_PX_TWOCOL = 372;  // (800 − 24 − 32 col-gap) / 2
 // ui-monospace character advance ratio (fraction of font-size in px).
 const CHAR_RATIO = 0.6;
 
-// lineCountFull:      .line divs that have a .lyrics span (chord + lyric)
-// lineCountChordOnly: .line divs with only a .chords span (intros, solos)
-// lyricLengths:       raw char count of each lyric line (for wrap estimation)
-function calcFontSize(lineCountFull, lineCountChordOnly, markerCount, twoCol, lyricLengths) {
-  const totalLines = lineCountFull + lineCountChordOnly;
-  if (totalLines === 0) return 1.0;
+// Height per element (F-scaled rem + fixed rem):
+//   full line:  chords(1.3F) + lyrics(1.3F) + margin-bottom(0.15)
+//   chord-only: chords(1.3F) only
+//   marker:     0.75em×1.5 lh = 1.125F, plus 0.6+0.3 margins = 0.9 fixed
+const lF_full = 2.6, lFixed = 0.15;
+const lF_chord = 1.3;
+const mkrF = 1.125, mkrFixed = 0.9;
 
-  const colPx    = twoCol ? COL_PX_TWOCOL : COL_PX_SINGLE;
-  const effective = twoCol ? AVAILABLE_REM * 2 : AVAILABLE_REM;
-
-  // Height per element (F-scaled rem + fixed rem):
-  //   full line:       chords(1.3F) + lyrics(1.3F) + margin-bottom(0.15)
-  //   chord-only line: chords(1.3F) only
-  //   marker:          0.75em×1.5 body lh = 1.125F, plus 0.6+0.3 margins = 0.9 fixed
-  const lF_full  = 2.6,  lFixed = 0.15;
-  const lF_chord = 1.3;
-  const mkrF     = 1.125, mkrFixed = 0.9;
-
-  let F = 1.0;
-  for (let i = 0; i < 30; i++) {
-    const charsPerLine = colPx / (F * 16 * CHAR_RATIO);
-
-    // Extra lines caused by lyric wrapping at current F
-    let extraLines = 0;
-    for (const len of lyricLengths) {
-      if (len > charsPerLine) extraLines += Math.ceil(len / charsPerLine) - 1;
-    }
-
-    const fullLines = lineCountFull + extraLines;
-    const num = effective - lFixed * fullLines - mkrFixed * markerCount;
-    const den = lF_full * fullLines + lF_chord * lineCountChordOnly + mkrF * markerCount;
-    const newF = Math.max(0.72, den > 0 ? num / den : 0.72);
-    if (Math.abs(newF - F) < 0.001) { F = newF; break; }
-    F = newF;
+// col = { lineCountFull, lineCountChordOnly, markerCount, lyricLengths }
+// Returns the maximum F at which col fits in AVAILABLE_REM with no lyric wrapping.
+function maxFForCol(col, colPx) {
+  const { lineCountFull: nF, lineCountChordOnly: nC, markerCount: nM, lyricLengths: ll } = col;
+  if (nF + nC + nM === 0) return Infinity;
+  const num = AVAILABLE_REM - lFixed * nF - mkrFixed * nM;
+  const den = lF_full * nF + lF_chord * nC + mkrF * nM;
+  let F = den > 0 ? num / den : Infinity;
+  // No-wrap cap: longest lyric must fit in column width without wrapping
+  if (ll.length > 0) {
+    const maxLen = Math.max(...ll);
+    if (maxLen > 0) F = Math.min(F, colPx / (maxLen * 16 * CHAR_RATIO));
   }
-  return Math.max(0.72, F);
+  return F;
+}
+
+// For two-col songs each column independently fits in AVAILABLE_REM.
+// col1 = content before COLBREAK, col2 = content after.
+function calcFontSize(col1, col2, twoCol) {
+  const colPx = twoCol ? COL_PX_TWOCOL : COL_PX_SINGLE;
+  const F1 = maxFForCol(col1, colPx);
+  const F2 = twoCol ? maxFForCol(col2, colPx) : Infinity;
+  return Math.max(0.72, Math.min(F1, F2));
 }
 
 // ── Content parser ─────────────────────────────────────────────────────────
-// Returns { bodyHTML, twoCol, lineCountFull, lineCountChordOnly, markerCount, lyricLengths }
+// Returns { bodyHTML, twoCol, col1, col2 }
+// col1 = content before COLBREAK, col2 = content after (zeros for single-col).
 function parseContent(innerLines) {
   let html = '';
-  let pendingChords = null; // raw line (spacing preserved for white-space:pre)
+  let pendingChords = null;
   let twoCol = false;
-  let lineCountFull = 0;
-  let lineCountChordOnly = 0;
-  let markerCount = 0;
-  const lyricLengths = [];
+  let inCol2 = false;
+  const col1 = { lineCountFull: 0, lineCountChordOnly: 0, markerCount: 0, lyricLengths: [] };
+  const col2 = { lineCountFull: 0, lineCountChordOnly: 0, markerCount: 0, lyricLengths: [] };
+  const curCol = () => inCol2 ? col2 : col1;
 
   function flushChords() {
     if (pendingChords !== null) {
       html += `    <div class="line">\n      <span class="chords">${esc(pendingChords)}</span>\n    </div>\n`;
       pendingChords = null;
-      lineCountChordOnly++;
+      curCol().lineCountChordOnly++;
     }
   }
 
   for (const line of innerLines) {
     const trimmed = line.trim();
+    if (!trimmed) { flushChords(); continue; }
 
-    if (!trimmed) {
-      flushChords();
-      continue;
-    }
-
-    // Section markers  == ... ==  (including COLBREAK)
     if (/^== .+ ==$/.test(trimmed)) {
       flushChords();
       if (trimmed === '== COLBREAK ==') {
         twoCol = true;
+        inCol2 = true;
         html += `\n    <p class="marker colbreak">${esc(trimmed)}</p>\n\n`;
       } else {
         html += `\n    <p class="marker">${esc(trimmed)}</p>\n\n`;
-        markerCount++;
+        curCol().markerCount++;
       }
       continue;
     }
 
     if (isChordLine(line)) {
       flushChords();
-      pendingChords = expandChordLine(line); // preserve spacing; expand run-on chord tokens
+      pendingChords = expandChordLine(line);
     } else {
-      // Lyric line
       const rawLyric = line.trimEnd();
-      lyricLengths.push(rawLyric.length);
+      curCol().lyricLengths.push(rawLyric.length);
       html += `    <div class="line">\n`;
       if (pendingChords !== null) {
         html += `      <span class="chords">${esc(pendingChords)}</span>\n`;
@@ -238,12 +229,12 @@ function parseContent(innerLines) {
       }
       html += `      <span class="lyrics">${esc(rawLyric)}</span>\n`;
       html += `    </div>\n`;
-      lineCountFull++;
+      curCol().lineCountFull++;
     }
   }
 
   flushChords();
-  return { bodyHTML: html, twoCol, lineCountFull, lineCountChordOnly, markerCount, lyricLengths };
+  return { bodyHTML: html, twoCol, col1, col2 };
 }
 
 // ── HTML template ──────────────────────────────────────────────────────────
@@ -284,8 +275,8 @@ async function processFile(mdPath, artistName, songTitle) {
   }
 
   const innerLines = lines.slice(fenceStart + 1, fenceEnd);
-  const { bodyHTML, twoCol, lineCountFull, lineCountChordOnly, markerCount, lyricLengths } = parseContent(innerLines);
-  const fontSize = calcFontSize(lineCountFull, lineCountChordOnly, markerCount, twoCol, lyricLengths);
+  const { bodyHTML, twoCol, col1, col2 } = parseContent(innerLines);
+  const fontSize = calcFontSize(col1, col2, twoCol);
 
   const artistSlug = slugify(artistName);
   const songSlug   = slugify(songTitle);
@@ -294,7 +285,15 @@ async function processFile(mdPath, artistName, songTitle) {
 
   await mkdir(outDir, { recursive: true });
   await writeFile(outPath, generateHTML(songTitle, artistName, bodyHTML, twoCol, fontSize), 'utf-8');
-  return { ok: true, twoCol, outPath, fontSize };
+
+  // Detect column overflow at the computed font (means COLBREAK needs rebalancing)
+  let colOverflow = false;
+  if (twoCol) {
+    const colH = col => (lF_full * col.lineCountFull + lF_chord * col.lineCountChordOnly + mkrF * col.markerCount) * fontSize
+                      + lFixed * col.lineCountFull + mkrFixed * col.markerCount;
+    colOverflow = colH(col1) > AVAILABLE_REM + 1 || colH(col2) > AVAILABLE_REM + 1;
+  }
+  return { ok: true, twoCol, outPath, fontSize, colOverflow };
 }
 
 // ── Main ───────────────────────────────────────────────────────────────────
@@ -319,6 +318,7 @@ for (const artistDir of artistDirs) {
       if (result.twoCol) twoColCount++;
       if (result.fontSize < minFont) minFont = result.fontSize;
       if (result.fontSize > maxFont) maxFont = result.fontSize;
+      if (result.colOverflow) console.warn(`  WARN col_overflow: ${artistDir.name} / ${songTitle} (font ${result.fontSize.toFixed(3)})`);
     } else {
       console.error(`  SKIP ${artistDir.name} / ${songTitle}: ${result.reason}`);
       errors++;

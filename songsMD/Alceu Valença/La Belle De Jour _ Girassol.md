@@ -36,6 +36,8 @@ La Belle de Jour
 
 == Primeira Parte ==
 
+== COLBREAK ==
+
 == Segunda Parte ==
 
           Am
@@ -60,8 +62,6 @@ Seus olhos azuis como a tarde
 Na tarde de um domingo azul
              C  Em C Em
 La Belle de Jour
-
-== COLBREAK ==
 
 (2x C  Em
     Mar e Sol
