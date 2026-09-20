@@ -69,7 +69,7 @@ Não é que eu queira reviver nenhum passado
 E revirar o sentimento, revirado
           F                      Em
 Mas toda vez que eu procuro uma saída
-          C7M       B7(b9)Em
+          C7M       B7(b9) Em
 Acabo entrando sem querer na sua vida
 Am7       D
     Eu procurei

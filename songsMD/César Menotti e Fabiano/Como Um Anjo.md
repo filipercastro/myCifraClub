@@ -9,7 +9,7 @@ Como um anjo
 Você apareceu na minha vida
             Am
 Uh, como um anjo
-               C         D
+               C          D
 Repleto de ternura de paixão
 Oh, oh, oh, oh
         G   C9 G
@@ -18,9 +18,11 @@ Como um anjo
 Encanto,sedução doce aventura
              Am
 Huum, que loucura
-              C               D D#º
+              C                D  D#º
 Você desabrochando no meu coração
-Segunda parte
+
+== SEGUNDA PARTE ==
+
          Em
 Linda menina com olhar inocente
                        D
@@ -28,26 +30,30 @@ Malícia desejo e tentação
 Que me cobre de amor e carícia
                 C
 Vencendo a solidão
- C G/B Am G     D
+ C G/B   Am  G       D
 Só vo___cê pra me fazer feliz
 Ai ai ai ai ai ai
 
 == REFRÃO ==
 
-G             D/F#      Em
+G              D/F#          Em
 Anjo a luz do sol tá me acordando
                           C
 Não vá embora, estou te amando
-       Am       D
+       Am         D
 Por favor não me deixe só
 Ai ai ai ai ai ai
-G                D/F# Em
+G                 D/F#    Em
 Anjo não quero abrir meus olhos
                          C
 Quero seguir vivendo um sonho
-           D       G D
+           D        G  D
 De sermos só você e eu
-[Solo[GEmCDG    REFRÃO
-]Segunda Parte]
-F D9 D#9 F9 D9 G
+G  Em C  D  G
+
+== SEGUNDA PARTE ==
+
+== REFRÃO ==
+
+F  D9  D#9  F9  D9  G
 ```

@@ -3,16 +3,16 @@
 
 ```
 D D5 Bm D5
-D  D5+  BmD5+(9)
+D  D5+  Bm D5+(9)
 Ôooo...               boi
 ( D  D5+  Bm  D5+(9) )
-   D            D5+          BmD5+(9)
+   D            D5+          Bm D5+(9)
 Vocês que fazem parte dessa massa
-     D                D5+    BmD5+(9)
+     D                D5+    Bm D5+(9)
 Que passa nos projetos     do futuro
-   D         D5+       BmD5+(9)
+   D         D5+       Bm D5+(9)
 É duro tanto ter que caminhar
-   D        D5+          BmD5+(9)
+   D        D5+          Bm D5+(9)
 E dar muito mais do que receber
    Em           F#      Bm A
 E ter que demonstrar sua coragem
@@ -40,11 +40,11 @@ G
 D D5 Bm D5
     D             D5+   Bm D5+(9)
 Lá fora faz um tempo confortável
-   D         D5+      BmD5+(9)
+   D         D5+      Bm D5+(9)
 A vigilância cuida do normal
-   D            D5+  BmD5+(9)
+   D            D5+  Bm D5+(9)
 Os automóveis ouvem a notícia
-    D          D5+      BmD5+(9)
+    D          D5+      Bm D5+(9)
 Os homens a publicam no jornal
    Em       F#        Bm A
 E correm através da madrugada
@@ -62,11 +62,11 @@ E passam a contar o que sobrou
 D D5 Bm D5
    D        D5+  Bm  D5+(9)
 O povo foge da  ignorância
-  D         D5+        BmD5+(9)
+  D         D5+        Bm D5+(9)
 Apesar de viver tão perto dela
    D            D5+      Bm D5+(9)
 E sonham com melhores tempos idos
-    D             D5+  BmD5+(9)
+    D             D5+  Bm D5+(9)
 Contemplam esta vida numa cela
    Em       F#       Bm A
 Esperam nova possibilidade

@@ -9,7 +9,7 @@
 
 A7M        D7M(9)          A7M
     Você nao sabe o quanto eu caminhei
-        D7M(9)G7M
+        D7M(9) G7M
 Pra chegar até aqui
 A7M                    D7M(9)
     Percorri milhas e milhas antes de
@@ -17,7 +17,7 @@ A7M
 dormir
 D7M(9) G7M
 Eu não cochilei
-A7M             D7M(9)A7M
+A7M             D7M(9) A7M
     Os mais belos montes escalei
      D7M(9)              A7M
 Nas noites escuras de frio chorei, ei , ei
@@ -25,17 +25,17 @@ D7M(9) A7MD7M(9)        /PRIMEIRA PARTE
 Ei ei ei..uu..
 A7M        D7M(9)          A7M
     A vida ensina e o tempo traz o tom
-        D7M(9)G7M
+        D7M(9) G7M
 Pra nascer uma canção
 A7M                D7M(9) A7M
     Com a fe o dia-a-dia encontro solução
-   D7M(9)G7M
+   D7M(9) G7M
 Encontro solução
 A7M                D7M(9)    A7M
     Quando bate a saudade eu vou pro mar
  D7M(9)                  A7M
 Fecho os meus olhos e sinto você chegar
- D7M(9)A7MD7M(9)
+ D7M(9) A7M D7M(9)
 Você chegar, psico, psico, psico
   F7M
 Quero acordar de manhã do teu lado
@@ -64,7 +64,7 @@ Tudo que eu quero pra mim
 
 == PRIMEIRA PARTE ==
 
-(     A7MD7M(9)
+(     A7M D7M(9)
 Together.
       A7M D7M(9)
 Together...oo...

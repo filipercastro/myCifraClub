@@ -62,7 +62,6 @@ Seus olhos azuis como a tarde
 Na tarde de um domingo azul
              C  Em C Em
 La Belle de Jour
-
 (2x C  Em
     Mar e Sol
 C

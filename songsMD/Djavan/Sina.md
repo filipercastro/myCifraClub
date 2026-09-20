@@ -21,9 +21,9 @@ C#m7          D7MD#°
     Pura beleza, jazz
               E4(7/9)
 A luz de um grande prazer
-  D4(7/9)C#7(9-)F#m7
+  D4(7/9) C#7(9-) F#m7
 É irre___medi___ável   neon
-           E4(7/9)     D4(7/9)E4(7/9)
+           E4(7/9)     D4(7/9) E4(7/9)
 Quando o grito do prazer açoitar   o ar, reveillon
 A                D/A
    O luar, estrela    do mar

@@ -45,6 +45,5 @@ Ele não me respondeu
 Então fechei os olhos
      Bm   G         D   A  Em  G  D  A  Em  G
 Sua voz assim me bateu
-
 == INTRO  2x==
 ```

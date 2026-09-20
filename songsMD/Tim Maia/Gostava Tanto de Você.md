@@ -27,7 +27,7 @@ Que em minha porta bate
 E eu
 Bm7                  A7M
     Gostava tanto de você
-Bm7                  A7MBm7
+Bm7                  A7M Bm7
     Gostava tanto de você
 SEGUNDA PARTE
 A7M                    Bm7
@@ -44,7 +44,7 @@ Não quero ver pra não lembrar
 Pensei até em me mudar
                          Bm7
 Lugar qualquer que não exista
-                   A7MBm7
+                   A7M Bm7
 O pensamento em você
 REFRÃO PRIMEIRA PARTE
  ->

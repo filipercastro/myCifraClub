@@ -65,7 +65,7 @@ Nas de calor, se escolhe:
 E assim nos tornamos brasileiros
      Em7
 Te chamam de ladrão, de bicha, maconheiro
-Am7                               D
+Am7                                  D
   Transformam um país inteiro num puteiro
                              Em7
 Pois assim se ganha mais dinheiro

@@ -79,9 +79,7 @@ Am        F       C
    Então vamos rodar
    G        Am   F C G
 E ver o que é meu
-
 == Refrão 2x==
-
 Am           F    C   G
    Eu sou o passageiro
 Am          F     C G

@@ -19,7 +19,7 @@ Não é coisa de momento, raiva passageira
 Mania que dá e passa, feito brincadeira
               F    Dm
 O amor deixa marcas
-                   Bm7(5-)E7
+                   Bm7(5-) E7
 Que não dá pra apagar
 Segunda Parte
  Am                                  Em

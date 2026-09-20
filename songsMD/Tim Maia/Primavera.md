@@ -28,13 +28,13 @@ Te amo meu amor
 Trago esta rosa  para te dar
             C#m7 Bm7
 Trago esta rosa  para te dar
-            C#m7Bm7   E7(4/9)
+            C#m7 Bm7   E7(4/9)
 Trago esta rosa  para te dar
       A7M
 Meu amor
 
 == Final ==
 
-                     E7(4/9)A7M
+                     E7(4/9) A7M
 Hoje o céu está tão lindo (vai chuva)  x6
 ```

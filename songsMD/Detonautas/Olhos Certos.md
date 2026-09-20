@@ -13,7 +13,7 @@ Tento te encontrar    Tanto pra dizer
 Meu amor,    tudo bem
  C#m       A7M        C#m     F#7(11)
 Sorte de nós dois    Quero te fazer feliz
- C#m  A7M       C#mA7M
+ C#m  A7M       C#m A7M
 Meu amor,    sempre quis
 
 == REFRÃO ==
@@ -33,7 +33,7 @@ Eu não vou mas o tempo vem aqui
 Mesmo sem te ver
  C#m        F#7( 11)
 Não chegou ao fim
- C#m  A7M       C#mA7M
+ C#m  A7M       C#m A7M
 Seu amor,    tudo em mim
 ( E       B4 C#m      A5( 9)
    Se não for mais do que tento ser
@@ -41,7 +41,7 @@ Seu amor,    tudo em mim
    Se não for mais    ) 2x
 ([C#mB4A5(9)C#mB4A5(9))2x
 REFRÃO - variação no final]
-F#7(11)    A7M      C#mB4A5(9)
+F#7(11)    A7M      C#m B4 A5(9)
 Eu não vou mas o tempo vem aqui
 F C#m B4 A5
 ```

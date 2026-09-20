@@ -69,9 +69,7 @@ Bm           E
    Um passo sem pensar
 Bm                      Em     A
    Um outro dia, um outro lugar
-
 == REFRÃO 2x==
-
 Pneus de carro cantam
 ( D             G
    Tchururu, tchuru, tchuru

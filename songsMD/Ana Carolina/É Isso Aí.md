@@ -54,7 +54,7 @@ A escolher seus amores
 
 == REFRÃO ==
 
-([Em7C9Am7)(C9DG)
+(Em7  C9  Am7)  (C9  D  G)
 
 == SEGUNDA PARTE ==
 

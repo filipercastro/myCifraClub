@@ -31,11 +31,11 @@ Em7( 9)      Am7
 Se não quiser, tudo bem meu bem
  F                E7
 Mas tente compreender
-Am7M(9)                       C4(7/9)C7
+Am7M(9)                       C4(7/9) C7
         Morando em São Gonçalo você sabe como é
  F                          E7
 Hoje a tarde a ponte engarrafou
-            Am7M(9)C4(7/9)C7
+            Am7M(9) C4(7/9) C7
 E eu fiquei a pé
  F                 E7
 Tentei ligar pra você
@@ -51,6 +51,6 @@ Repete Música
  2x
                        Am7 Bm7 Am7 Bm7 Am7 Bm7 E7
 3x Mas você crê se quiser
-                    Am7Am7M
+                    Am7 Am7M
 Mas você crê se quiser
 ```

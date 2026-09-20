@@ -7,7 +7,7 @@ F#
 Estou à beira da loucura
      C#
 Ninguém mais me segura
-    B                     F#
+    B                      F#
 Tô fora da sua vida eu já fui
          C#
 Quero a minha liberdade
@@ -40,6 +40,5 @@ Quem dá mais pelo meu coração
 Me ajude voltar a viver
                 C#         B           D#m
 Estou aqui tão perto me arremate pra você
-[Solo[G#mD#mBC#
-]REPETE TUDO]
+G#m  D#m  B  C#
 ```

@@ -56,10 +56,10 @@ Está nascendo um novo líder
 ( Bb7M  Am7  Gm7 )
                     Dm7( 9)
 No morro do pau da bandeira
-                       Bb7MA7
+                       Bb7M A7
 No morro do pau da bandeira
                        Dm7( 9)
 No morro do pau da bandeira
- Bb7M(Bb7MAm7Gm7)Dm7(9)
+ Bb7M(Bb7MAm7Gm7) Dm7(9)
 Lelele,           lelelelelelelele
 ```

@@ -72,6 +72,6 @@ Am     Em
 Uh, eu quero você
           F7M
 Como eu quero
-AmEm         F7M
+Am Em         F7M
 Uh,    como eu quero
 ```

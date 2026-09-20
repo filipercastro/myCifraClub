@@ -43,15 +43,12 @@ Bm7(11)      Bm7(9/11)         Bm7(11)
         E fizesse parar de chover
         Bm7(9/11)
 Nos primeiros erros
-
 == PRE-REFRÃO 2x==
-
 D E/D 2x
 
 == REFRÃO ==
 
 == PRE-REFRÃO 3x==
-
 D  D5(7M/9)  G/B 2x
 D E/D D
 ```

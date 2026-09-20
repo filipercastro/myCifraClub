@@ -46,7 +46,7 @@ Tudo que Deus criou pensando em você
 Fez a Via-Láctea, fez os dinossauros
         Bm         Bm/A    G7M
 Sem pensar em nada, fez a minha vida
-   F#m7G7M
+   F#m7 G7M
 E te deu
         Bm         Bm/A  G7M
 Sem contar os dias que me faz morrer
@@ -56,7 +56,7 @@ Sem saber de ti, jogado à solidão
 Mas se quer saber
        Bm/A    G7M
 Se eu quero outra vida
- F#m7G7M
+ F#m7 G7M
 Não, não
 ( D7M  Bm7 Em7 A7 ) 2x
 
