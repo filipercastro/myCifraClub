@@ -2,9 +2,11 @@
 **Chitãozinho e Xororó**
 
 ```
-[INTROC7FC7F
-]Quando a gente ama
-                C7         F
+C7  F  C7
+
+F
+  Quando a gente ama
+                C7           F
 Qualquer coisa serve para relembrar
                              F7
 Um vestido velho da mulher amada
@@ -16,33 +18,34 @@ Aquele restinho do perfume dela
 Que ficou no frasco   Sobre a penteadeira
                   C7
 Mostrando que o quarto
-                              F   C/E
+                              F    C/E
 Já foi o cenário de um grande amor
 
 == REFRÃO ==
 
-Dm C7
+Dm  C7
 E  hoje o que encontrei
                  F
 Me deixou mais triste
                         C7
 Um pedacinho dela que existe
-             Bb            F C/E
+             Bb              F C/E
 Um fio de cabelo no meu paletó
- Dm C7
+ Dm  C7
 Lembrei de tudo entre nós
            F
 Do amor vivido
                           C7
 Aquele fio de cabelo comprido
-              Bb    C7  F  C/E Dm
+              Bb      C7    F   C/E  Dm
 Já esteve grudado em nosso suor
-C7 F C7 F
+C7  F  C7  F
+
                F
 Quando a gente ama
-            C7             F
+            C7               F
 E não vive junto da mulher amada   Uma coisa à toa
-            F7              Bb
+            F7                Bb
 É um bom motivo pra gente chorar
                                 C7
 Apagam-se as luzes ao chegar a hora
@@ -51,7 +54,7 @@ De ir para a cama
                                   C7
 A gente começa a esperar por quem ama
 Na impressão que ela
-          F    C/E
+          F      C/E
 Venha se deitar
 
 == REFRÃO ==

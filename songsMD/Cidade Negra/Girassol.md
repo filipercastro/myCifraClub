@@ -2,34 +2,36 @@
 **Cidade Negra**
 
 ```
-E F#m G#m F#m
-E F#m G#m B
+== INTRO ==
+
+E  F#m  G#m  F#m
+E  F#m  G#m  B
 
 == INTRO ==
 
-       E             F#m
+       E              F#m
 (Tchu ru ru ru ru ru ru ru
-      G#m      F#m
+      G#m         F#m
 Tchu ru ru ru ru ru       ) 2x
-E     F#m       G#m
+E      F#m          G#m
   A favor da comunidade
-       F#m          E
+       F#m             E
 Que espera o bloco passar
-         F#m      G#m
+         F#m         G#m
 Ninguém fica na solidão
-   B             E
+   B              E
 Embarca com suas dores
-     F#m         G#m F#m
+     F#m            G#m  F#m
 Prá longe do seu lugar
-E     F#m       G#m
+E      F#m          G#m
   A favor da comunidade
-       F#m          E
+       F#m             E
 Que espera o bloco passar
-         F#m      G#m
+         F#m         G#m
 Ninguém fica na solidão
-    B            E
+    B             E
 O Bloco vai te levar
-         F#m      G#m B
+         F#m         G#m  B
 Ninguém fica na solidão
 
 == REPETE ==
@@ -46,11 +48,11 @@ Dos dois destinos
 Já que pra ser homem
          C
 Tem que ter a grandeza
-         G           D
+         G            D
 De um menino de um menino
           A9
 No coração de quem faz a guerra
-      C             G
+      C              G
 Nascerá uma flor amarela
          D
 Como um girassol
@@ -58,28 +60,27 @@ Como um girassol
 Como um girassol
          C
 Como um girassol
-   G        D   /REPETE
+   G         D
 Amarelo! amarelo
 
 == COLBREAK ==
 
 == INTRO ==
 
-E      F#m    G#m
+E       F#m       G#m
   Todo dia, toda hora
-      F#m       E
+      F#m          E
 Na batida da evolução
-        F#m    G#m
+        F#m       G#m
 A harmonia do passista
-          B       E
+          B        E
 Vai encantar a avenida
-          F#m      G#m
+          F#m         G#m
 E todo o povo vai sorrir
-    F#m  E
+    F#m     E
 Sorrir, sorrir
-          F#m      G#m B
+          F#m         G#m  B
 E todo o povo vai sorrir
-Repete a Segunda Parte:
 
 == REPETE ==
 
@@ -87,8 +88,8 @@ Repete a Segunda Parte:
 Como um girassol
          C
 Como um girassol
-   G        D
+   G         D
 Amarelo! Amarelo
 
-== INTRO ==
+== INTRO 2x ==
 ```
